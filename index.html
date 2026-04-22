@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>Game Industry Daily · 游戏行业日报</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700;900&display=swap">
+  <link rel="stylesheet" href="theme.css?v=71">
+</head>
+<body>
+<div id="global-loader" style="position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: var(--bg); z-index: 9999; display: flex; align-items: center; justify-content: center; font-family: var(--font-mono); font-size: 14px; font-weight: bold; color: var(--text-main); letter-spacing: 2px;">INITIALIZING DATA...</div>
+
+<div class="ticker-bar">
+  <div class="ticker-inner" id="ticker-inner"><span class="live-dot"></span> LIVE <span>|</span> INITIALIZING...</div>
+</div>
+
+<header class="site-header">
+  <div class="logo" style="color: var(--text-main); font-size: 18px; text-align: left;">
+    GAME INDUSTRY<br>DAILY
+  </div>
+  <nav class="region-nav">
+    <span class="nav-item active" data-page="home">首页 THE BRIEF</span>
+    <span class="nav-item" data-page="feed" data-cat="news">竞品与赛道 MARKETS</span>
+    <span class="nav-item" data-page="feed" data-cat="marketing">增长与营销 GROWTH</span>
+    <span class="nav-item" data-page="feed" data-cat="events">宏观与合规 MACRO</span>
+    <span class="nav-item" data-page="releases">发售定档 RELEASES</span>
+    <span class="nav-item" data-page="meme">社媒情报站 TRENDS</span>
+    <select id="issue-selector"></select>
+  </nav>
+</header>
+
+<div class="main-layout" id="main-layout">
+  <!-- PAGE: HOME -->
+  <main id="page-home" class="page active">
+    <div class="hero-wrapper">
+      <section class="hero">
+        <div class="hero-left">
+          <div class="hero-top">
+            <span class="hero-meta" id="hero-meta"></span>
+            <span class="hero-vol"  id="hero-vol"></span>
+          </div>
+          <h1 class="hero-title" id="hero-title"></h1>
+          <p class="hero-summary" id="hero-summary"></p>
+          <div class="hero-bottom">
+            <div class="hero-tags" id="hero-tags"></div>
+          </div>
+        </div>
+        
+        <div class="hero-right">
+          <div class="calendar-widget">
+            <div class="calendar-nav">
+              <button id="cal-prev">‹</button>
+              <span class="month" id="cal-month"></span>
+              <button id="cal-next">›</button>
+            </div>
+            <div class="calendar-grid">
+              <div class="dow">S</div><div class="dow">M</div><div class="dow">T</div>
+              <div class="dow">W</div><div class="dow">T</div><div class="dow">F</div><div class="dow">S</div>
+              <div id="cal-grid" style="display:contents"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    
+      <!-- HOME PAGE NEWS FEED -->
+      <div class="home-feed-section">
+        <div id="home-feed-container"></div>
+      </div>
+    </main>
+
+  <!-- PAGE: FEED -->
+  <main id="page-feed" class="page" style="display:none;">
+    <div class="feed-header" style="display: flex; align-items: baseline; gap: 16px;">
+      <h2 id="feed-title">Category</h2>
+      <span id="feed-month-badge" style="font-family: var(--font-sans); font-size: 12px; font-weight: 700; letter-spacing: 0.1em; background: var(--border); color: var(--text-secondary); padding: 4px 10px; border-radius: 4px; text-transform: uppercase;">MONTH SUMMARY</span>
+    </div>
+    <div id="news-feed-container" class="feed-container"></div>
+  </main>
+
+  <!-- PAGE: RELEASES -->
+  <main id="page-releases" class="page" style="display:none;">
+    <div class="feed-header" style="display: flex; justify-content: space-between; align-items: flex-end;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <h2>发售定档 Release Radar</h2>
+        <span id="releases-month-badge" style="font-family: var(--font-sans); font-size: 12px; font-weight: 700; letter-spacing: 0.1em; background: var(--border); color: var(--text-secondary); padding: 4px 10px; border-radius: 4px; text-transform: uppercase;">MONTH SUMMARY</span>
+      </div>
+      <select id="platform-filter" style="margin-bottom: 4px; padding: 6px 12px; font-family: var(--font-sans); font-size: 12px; font-weight: 600; border: 1px solid var(--border); border-radius: 6px; background: white; cursor: pointer; outline: none; color: var(--text-main);">
+        <option value="all">All Platforms</option>
+        <option value="PC">PC</option>
+        <option value="PS5">PS5</option>
+        <option value="Xbox">Xbox</option>
+        <option value="Switch">Switch</option>
+        <option value="Mobile">Mobile</option>
+      </select>
+    </div>
+    <div class="releases-list" id="releases-feed"></div>
+  </main>
+
+    <!-- PAGE: MEME TRENDS -->
+    <main id="page-meme" class="page" style="display:none; max-width: 1400px; margin: 0 auto; padding: 48px 5% 64px;">
+      <div class="feed-header" style="display: flex; align-items: baseline; gap: 16px; border-bottom: 2px solid #111; margin-bottom: var(--space-12); padding: 0 0 var(--space-3) 0;">
+        <h2 style="font-family: var(--font-display); font-size: 28px; font-weight: 900; letter-spacing: -0.01em; color: var(--text-main); text-transform: uppercase;">社媒情报站 <span class="en-part" style="font-size: 13px; color: var(--text-muted); font-family: var(--font-mono); font-weight: 400; letter-spacing: 0.06em; margin-left: 8px;">TRENDS</span></h2>
+        <span style="font-family: var(--font-sans); font-size: 12px; font-weight: 700; letter-spacing: 0.1em; background: var(--border); color: var(--text-secondary); padding: 4px 10px; border-radius: 4px; text-transform: uppercase;">BI-WEEKLY REPORT</span>
+      </div>
+      <div id="meme-feed-container" style="display: flex; flex-direction: column; gap: 0; padding-top: 0;"></div>
+    </main>
+</div>
+
+<footer class="site-footer">
+  <div class="logo" style="text-align: left; color: var(--text-main); font-size: 18px;">
+    GAME INDUSTRY<br>DAILY
+  </div>
+  <span class="footer-rule"></span>
+  <span class="footer-meta">Internal Use Only &nbsp;&middot;&nbsp; &copy; 2026</span>
+</footer>
+
+<button id="back-to-top" style="display:none; position: fixed; bottom: 40px; right: 40px; background: #111; color: #fff; border: none; border-radius: 50%; width: 48px; height: 48px; font-family: var(--font-mono); font-size: 10px; font-weight: bold; cursor: pointer; z-index: 1000; box-shadow: 0 4px 12px rgba(0,0,0,0.2); transition: transform 0.2s, background 0.2s; text-transform: uppercase;">↑</button>
+
+<script src="app.js?v=71"></script>
+</body>
+</html>

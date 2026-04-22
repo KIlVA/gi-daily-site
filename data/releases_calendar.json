@@ -1,0 +1,461 @@
+[
+  {
+    "date": "2026-04-01",
+    "title": "Elden Ring: Nightreign",
+    "platforms": [
+      "PC",
+      "PS5",
+      "XSX"
+    ],
+    "developer": "FromSoftware"
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Goat Simulator 3》",
+    "developer": "Coffee Stain Studios",
+    "platforms": [
+      "Switch 2"
+    ],
+    "date": "2026-04-01",
+    "source": "IGN",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Darwin's Paradox》",
+    "developer": "Unknown",
+    "platforms": [
+      "PS5",
+      "Switch 2",
+      "Xbox",
+      "PC"
+    ],
+    "date": "2026-04-02",
+    "source": "IGN",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Darwin's Paradox!》",
+    "developer": "ZDT Studio / Konami",
+    "platforms": [
+      "PS5",
+      "Xbox Series",
+      "Switch 2",
+      "PC"
+    ],
+    "date": "2026-04-02",
+    "source": "Gematsu",
+    "url": "https://www.gematsu.com/2026/02/darwins-paradox-launches-april-2"
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Modulus: Factory Automation》",
+    "developer": "Happy Volcano",
+    "platforms": [
+      "PC"
+    ],
+    "date": "2026-04-02",
+    "source": "Steam",
+    "url": "https://store.steampowered.com/app/2779120/Modulus_Factory_Automation/"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "《鸣潮》2.5 版本「浮光之境」",
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "developer": "库洛游戏"
+  },
+  {
+    "date": "2026-04-04",
+    "title": "Hollow Knight: Silksong",
+    "platforms": [
+      "PC",
+      "NS2",
+      "PS5"
+    ],
+    "developer": "Team Cherry"
+  },
+  {
+    "date": "2026-04-05",
+    "title": "《绝区零》1.6 版本「归途」",
+    "platforms": [
+      "PC",
+      "PS5",
+      "iOS",
+      "Android"
+    ],
+    "developer": "miHoYo"
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《星之海》移动版",
+    "developer": "Sabotage Studio / Playdigious",
+    "platforms": [
+      "iOS",
+      "Android"
+    ],
+    "date": "2026-04-07",
+    "source": "Game Informer",
+    "url": "https://gameinformer.com/2026/04/07/sea-of-stars-launches-on-mobile-devices-today"
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《People of Note》",
+    "developer": "Iridium Studios / Annapurna Interactive",
+    "platforms": [
+      "PC",
+      "Switch 2"
+    ],
+    "date": "2026-04-07",
+    "source": "Annapurna Interactive",
+    "url": "https://annapurnainteractive.com/games/people-of-note"
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Starfield》PS5版",
+    "developer": "Bethesda Game Studios",
+    "platforms": [
+      "PS5"
+    ],
+    "date": "2026-04-07",
+    "source": "PlayStation Blog",
+    "url": "https://blog.playstation.com/2026/03/17/starfield-is-coming-to-playstation-5-on-april-7/"
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Pokémon Champions》",
+    "developer": "The Pokémon Company",
+    "platforms": [
+      "Switch",
+      "Switch 2"
+    ],
+    "date": "2026-04-08",
+    "source": "GosuGamers",
+    "url": ""
+  },
+  {
+    "type": "EA发售",
+    "region": "Global",
+    "title": "《Morbid Metal》EA版",
+    "developer": "SCREEN JUICE / Ubisoft",
+    "platforms": [
+      "PC"
+    ],
+    "date": "2026-04-08",
+    "source": "Gematsu",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《宝可梦 Champions》",
+    "developer": "The Pokémon Company",
+    "platforms": [
+      "Switch",
+      "Switch 2",
+      "iOS",
+      "Android"
+    ],
+    "date": "2026-04-08",
+    "source": "Pokemon.com",
+    "url": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-releases-on-nintendo-switch-and-nintendo-switch-2-on-april-8-2026"
+  },
+  {
+    "type": "定档",
+    "region": "CN",
+    "title": "《王者荣耀世界》PC公测",
+    "developer": "天美工作室群",
+    "platforms": [
+      "PC"
+    ],
+    "date": "2026-04-10",
+    "source": "官网",
+    "url": ""
+  },
+  {
+    "type": "公测",
+    "region": "CN",
+    "title": "《王者荣耀世界》",
+    "developer": "腾讯天美L1工作室",
+    "platforms": [
+      "PC"
+    ],
+    "date": "2026-04-10",
+    "source": "官方公告",
+    "url": "https://world.qq.com/"
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Tiny Bookshop》",
+    "developer": "Neoludic Games",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Xbox (Game Pass)"
+    ],
+    "date": "2026-04-10",
+    "source": "Xbox Wire",
+    "url": "https://news.xbox.com/en-us/2026/04/10/tiny-bookshop-out-now-game-pass/"
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Hades II》主机版",
+    "developer": "Supergiant Games",
+    "platforms": [
+      "PS5",
+      "Xbox"
+    ],
+    "date": "2026-04-14",
+    "source": "IGN",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Replaced》",
+    "developer": "Sad Cat Studios",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "date": "2026-04-14",
+    "source": "IGN",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Starfield》PS5版",
+    "developer": "Bethesda",
+    "platforms": [
+      "PS5"
+    ],
+    "date": "2026-04-14",
+    "source": "IGN",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Hades II》主机版（Game Pass首日）",
+    "developer": "Supergiant Games",
+    "platforms": [
+      "PS5",
+      "Xbox"
+    ],
+    "date": "2026-04-14",
+    "source": "GameSpot",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Replaced》（Game Pass首日）",
+    "developer": "Sad Cat Studios",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "date": "2026-04-14",
+    "source": "GameSpot",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Starfield》PS5版 + Terran Armada DLC",
+    "developer": "Bethesda",
+    "platforms": [
+      "PS5",
+      "Xbox",
+      "PC"
+    ],
+    "date": "2026-04-14",
+    "source": "Kotaku",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Hades II》",
+    "developer": "Supergiant Games",
+    "platforms": [
+      "PS5",
+      "Xbox"
+    ],
+    "date": "2026-04-14",
+    "source": "IGN",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Tomodachi Life: Living the Dream》",
+    "developer": "Nintendo",
+    "platforms": [
+      "Switch"
+    ],
+    "date": "2026-04-16",
+    "source": "Games.gg",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Pragmata》",
+    "developer": "Capcom",
+    "platforms": [
+      "PS5",
+      "Xbox",
+      "PC"
+    ],
+    "date": "2026-04-17",
+    "source": "IGN / VGC",
+    "url": ""
+  },
+  {
+    "type": "限量测试",
+    "region": "CN/Global",
+    "title": "《星布谷地》限量删档测试",
+    "developer": "HoYoverse",
+    "platforms": [
+      "Mobile"
+    ],
+    "date": "2026-04-21",
+    "source": "IGN",
+    "url": ""
+  },
+  {
+    "type": "定档",
+    "region": "CN",
+    "title": "《异环》",
+    "developer": "完美世界 Hotta Studio",
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "date": "2026-04-23",
+    "source": "完美世界官方",
+    "url": "https://yh.wanmei.com/main.html"
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Diablo IV: Lord of Hatred》资料片",
+    "developer": "Blizzard",
+    "platforms": [
+      "PS5",
+      "Xbox",
+      "PC"
+    ],
+    "date": "2026-04-28",
+    "source": "IGN",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "CN",
+    "title": "《异环》",
+    "developer": "完美世界",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Android",
+      "iOS"
+    ],
+    "date": "2026-04-29",
+    "source": "17173",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《NTE: Neverness to Everness》",
+    "developer": "Hotta Studio / Perfect World",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Mac",
+      "iOS",
+      "Android"
+    ],
+    "date": "2026-04-29",
+    "source": "MonsterVine",
+    "url": ""
+  },
+  {
+    "type": "发售",
+    "region": "Global",
+    "title": "《Saros》",
+    "developer": "Housemarque",
+    "platforms": [
+      "PS5"
+    ],
+    "date": "2026-04-30",
+    "source": "VGC / IGN",
+    "url": ""
+  },
+  {
+    "tags": [
+      "MMORPG",
+      "CBT",
+      "经典IP"
+    ],
+    "title": "《仙境传说：黄昏》（Ragnarok: Twilight Global）欧美Android封测开启",
+    "body": "Gravity Game Vision旗下《仙境传说》IP新手游欧美Android限时封测正式开启（4月9日至16日），主打100% MVP装备掉落与变身MVP战斗机制。",
+    "time": "2026-04-09",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/ragnarok-twilight-global-limited-time-cbt-now-live-transform-into-heroes-and-experience-the-brand-new-ro-302737743.html",
+    "region": "Global"
+  },
+  {
+    "tags": [
+      "视觉小说",
+      "RPG",
+      "Switch / PC"
+    ],
+    "title": "《Arcadia Fallen II》正式发售（PC / Mac / Linux / Switch）",
+    "body": "获奖视觉小说RPG《Arcadia Fallen》续作当日登陆多平台，玩家在七风学院扮演高年级学生，通过三条魔法系别选择与叙事决策塑造角色个性。",
+    "time": "2026-04-09",
+    "source": "YourCountdown.To",
+    "url": "https://yourcountdown.to/arcadia-fallen-ii",
+    "region": "Global"
+  },
+  {
+    "tags": [
+      "模拟经营",
+      "Xbox Game Pass"
+    ],
+    "title": "《Planet Coaster 2》登陆Xbox Game Pass（Ultimate / Premium / PC）",
+    "body": "Frontier Developments过山车经营续作《Planet Coaster 2》今日正式加入Xbox Game Pass多档订阅服务，支持云游戏、主机及PC端。",
+    "time": "2026-04-09",
+    "source": "IGN / CNET",
+    "url": "https://www.cnet.com/tech/gaming/hades-2-the-award-winning-sequel-joins-xbox-game-pass-in-april/",
+    "region": "Global"
+  },
+  {
+    "title": "《上古卷轴IV：奥布利维恩重制版》",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "Cloud"
+    ],
+    "date": "2026-04-16",
+    "source": "Pure Xbox"
+  }
+]
