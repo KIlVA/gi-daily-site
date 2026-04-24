@@ -158,6 +158,40 @@
 }
 ```
 
+**6. IMAGE URL 防盗链白名单（图片来源铁律）**
+
+> ⚠️ 图片 URL 不只要「真实存在」，还要「能在浏览器中加载」。部分图床设有防盗链（Hotlink Protection），当浏览器携带 `Referer` 头请求图片时会返回 403，导致图片显示空白。
+
+**✅ 允许外链（已验证可用）：**
+- `assetsio.gnwcdn.com` — GamesIndustry.biz CDN，**首选**
+- `www.videogameschronicle.com` — VGC 站内图
+- `images.pushsquare.com` — Push Square
+- `images.nintendolife.com` — Nintendo Life
+- `images.purexbox.com` — Pure Xbox
+- `eu-images.contentstack.com` — Game Developer
+- `images.ctfassets.net` — Contentful CDN
+- `blog.playstation.com/tachyon/` — PlayStation Blog
+- `deadline.com/wp-content/` — Deadline
+- `www.gematsu.com/wp-content/` — Gematsu（注意：部分文章缩略图可能 404，需验证）
+
+**❌ 禁止使用（防盗链或高频失效）：**
+| 域名 | 原因 |
+|---|---|
+| `img.gamelook.com.cn` | 完全拒绝外链，无论是否携带 Referer 均 403 |
+| `inews.gtimg.com` | 腾讯图床，携带 Referer（浏览器必带）时 403 |
+| `assets.pokemon.com` | 宝可梦官方图床，URL 易失效（404）|
+
+**处理规则：**
+1. 凡来源为 GameLook / 腾讯系媒体（GameLook、腾讯游戏学堂等）的新闻，**不得使用其图床**，必须改用对应新闻在 GamesIndustry.biz / VGC / Gematsu 等白名单来源中的配图。
+2. 若实在找不到白名单域名的图片，使用以下**已确认可用的通用备用图**（来自 GamesIndustry CDN 真实文件）：
+   - 通用会议/行业图：`https://assetsio.gnwcdn.com/GCAP-Conference-Day-03-(274-of-354).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp`
+   - 育碧 logo：`https://assetsio.gnwcdn.com/ubisoft-logo-black.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp`
+   - SIE banner：`https://assetsio.gnwcdn.com/SIE.blog_SIE-Banner_Grey_5R2ACse.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp`
+   - Switch 2：`https://assetsio.gnwcdn.com/nintendo-switch-21.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp`
+3. **严禁**自行拼接 `assetsio.gnwcdn.com` 文件名——该 CDN 没有规律性文件名，猜出来的路径返回 403。只能使用在文章页中实际抓到的 OG 图片 URL。
+
+---
+
 **6. POST-GENERATION WORKFLOW**
 1. **写入文件**：将 JSON 保存至工作区的 `batch_temp_{月}_{日}.json`。
 2. **执行脚本**：运行 `python update_daily.py batch_temp_{月}_{日}.json`。
@@ -170,7 +204,8 @@
 - [ ] `events` 每条条目的驱动力是否来自政府/监管/资本市场的外部力量？是否混入了厂商主动决策类新闻？
 - [ ] 所有新闻是否通过了 P0/P1 白名单信源的交叉验证？
 - [ ] URL 字段绝对不是搜索引擎结果页链接，不是虚假拼接链接。拿不准的一律写 `""`。
+- [ ] **图片域名白名单检查**：所有 `image` 字段的域名是否在允许外链白名单内？凡含 `img.gamelook.com.cn` 或 `inews.gtimg.com` 的图片必须替换。
 - [ ] **全局去重**：逐条扫描三个模块，同一厂商 + 同一动作 + 同一时间 = 同一事件，只保留信源最权威的一条，跨模块重复条目同样删除。
 
 ---
-*最后更新：v8 | 2026-04-16*
+*最后更新：v9 | 2026-04-24（新增 Section 6 图片防盗链白名单规则）*
