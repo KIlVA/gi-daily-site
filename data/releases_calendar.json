@@ -437,6 +437,41 @@
   {
     "type": "发售",
     "region": "Global",
+    "title": "《Saros》",
+    "developer": "Housemarque",
+    "platforms": [
+      "PS5"
+    ],
+    "date": "2026-04-24",
+    "source": "Sony Interactive Entertainment",
+    "url": "https://www.videogameschronicle.com/review/saros-review/"
+  },
+  {
+    "type": "发售",
+    "region": "NA/EU",
+    "title": "《Elden Ring Nightreign》北美/欧洲上线",
+    "developer": "FromSoftware",
+    "platforms": [
+      "PC (Steam)",
+      "PS5",
+      "Xbox Series X|S"
+    ],
+    "date": "2026-04-25",
+    "source": "FromSoftware / Bandai Namco",
+    "url": "https://store.steampowered.com/app/2622380/ELDEN_RING_Nightreign/"
+  },
+  {
+    "title": "《Mahou Arms》",
+    "platforms": [
+      "PC",
+      "Switch 2"
+    ],
+    "date": "2026-04-27",
+    "source": "Gematsu"
+  },
+  {
+    "type": "发售",
+    "region": "Global",
     "title": "《Diablo IV: Lord of Hatred》资料片",
     "developer": "Blizzard",
     "platforms": [
@@ -492,6 +527,16 @@
     "url": ""
   },
   {
+    "title": "《River City Saga: Journey to the West》",
+    "platforms": [
+      "PS5",
+      "Switch",
+      "PC"
+    ],
+    "date": "2026-06-04",
+    "source": "Gematsu"
+  },
+  {
     "tags": [
       "MMORPG",
       "CBT",
@@ -528,17 +573,5 @@
     "source": "IGN / CNET",
     "url": "https://www.cnet.com/tech/gaming/hades-2-the-award-winning-sequel-joins-xbox-game-pass-in-april/",
     "region": "Global"
-  },
-  {
-    "type": "发售",
-    "region": "Global",
-    "title": "《Saros》",
-    "developer": "Housemarque / Sony Interactive Entertainment",
-    "platforms": [
-      "PS5"
-    ],
-    "date": "2026-04-24",
-    "source": "VGC",
-    "url": "https://www.videogameschronicle.com/review/saros-review/"
   }
 ]

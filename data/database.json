@@ -3058,5 +3058,373 @@
       "大摩：AI将释放游戏业年利1500亿，版号成中国AI时代护城河",
       "《Saros》发售获媒体高度评价：Housemarque再次证明PS5独占无需解释"
     ]
+  },
+  "2026-04-26": {
+    "date": "2026-04-26",
+    "vol": 20260426,
+    "weekday": "SUNDAY",
+    "ticker": [
+      "Capcom 内部派对曝光：《生化危机：安魂曲》两个月销量突破700万，Geoff Keighley出席庆典引发 SGF 首曝联想",
+      "Alien: Isolation 官方账号发布25秒预告「False Sense of Security」，Creative Assembly 续作正式进入宣发倒计时",
+      "《最终幻想X》25周年官网上线，Square Enix 确认周边与黑胶套装，7月19日为核心节点",
+      "GamesIndustry.biz 深度：越来越多慈善机构盯上游戏行业，Cause+Select 平台搭建开发商与NGO的桥梁"
+    ],
+    "hero": {
+      "title": "RE Requiem 700万庆典Geoff Keighley露面，Alien:Isolation 2预告悄然降临：4月26日周日，IP续作战略全线加速",
+      "summary": "4月26日周日，游戏行业用两条「续作信号」为本周画上句号。Capcom 内部庆典派对照片在社交媒体广泛流传：《生化危机：安魂曲》Leon主题蛋糕上写明「7M」，正式确认游戏上线不足两个月销量突破700万；更引人注目的是，The Game Awards 主持人 Geoff Keighley 现场出镜，结合其与 SGF 的深度绑定，业界普遍猜测 Capcom 将在6月 Summer Game Fest 期间发布重磅新作首曝。与此同时，Alien: Isolation 官方 YouTube 账号发布了一段仅25秒的神秘预告「False Sense of Security」，画面中 ESRB「Rating Pending」标志与 Creative Assembly 标识并存，正式宣告2024年10月公布的续作已进入评级与宣发程序。另一面，Square Enix 为《最终幻想X》25周年启动全球官网，Gematsu 确认配套周边将于7月发布；GI.biz 深度报道英国新兴平台 Cause+Select，揭示游戏行业公益化正在从边缘走向主流——数字主义冲击下，慈善机构比以往任何时候都更需要游戏产业的流量与资源。",
+      "tags": [
+        "生化危机",
+        "Capcom",
+        "Alien Isolation",
+        "Creative Assembly",
+        "最终幻想X",
+        "公益游戏"
+      ],
+      "stats": [
+        {
+          "num": "700万",
+          "label": "RE Requiem两个月累计销量"
+        },
+        {
+          "num": "25秒",
+          "label": "Alien Isolation 2神秘预告时长"
+        },
+        {
+          "num": "25年",
+          "label": "最终幻想X发布周年"
+        }
+      ]
+    },
+    "news": [
+      {
+        "type": "销售里程碑",
+        "title": "RE Requiem 700万+Geoff Keighley 出席庆典：Capcom 最快卖座生化危机，SGF 首曝预期升温",
+        "body": "Capcom 举办《生化危机：安魂曲》内部庆典派对，游戏导演 Koshi Nakanishi 在 Instagram Stories 分享的照片显示，派对现场摆有 Leon 与 Grace 主题蛋糕，蛋糕上清晰印有「7M」字样，正式确认游戏上线不足两个月销量突破700万套。更令业界瞩目的是，The Game Awards 制作人兼 Summer Game Fest 主创 Geoff Keighley 现身派对，并被指「主持了一场派对宾果游戏」。结合 Capcom 长期深度参与 SGF 的历史，分析人士广泛预测 Capcom 将在6月 Summer Game Fest 期间宣布重磅新作。此前《安魂曲》上线5天即突破500万，数周后达600万，是系列史上最快卖座作品，远超 RE4（2023）达到700万需耗时一年的记录。",
+        "source": "VGC / Capcom / Instagram",
+        "business_impact": "RE Requiem 700万里程碑强化了 Capcom 在生存恐怖领域无可撼动的市场地位；Keighley 的露面为 SGF 制造高度期待，Capcom 的新作首曝窗口将可能成为今年夏季游戏发布季的核心事件之一",
+        "url": "https://www.videogameschronicle.com/news/capcom-throws-resident-evil-party-featuring-geoff-keighley-as-requiem-clears-7-million-sales/",
+        "image": "https://www.videogameschronicle.com/files/2026/04/Screenshot-2026-04-26-132003.jpg"
+      },
+      {
+        "type": "IP续作信号",
+        "title": "Alien: Isolation 2「False Sense of Security」25秒预告发布：Creative Assembly 续作正式进入宣发倒计时",
+        "body": "Alien: Isolation 官方 YouTube 账号于4月26日发布时长仅25秒的神秘视频，标题「False Sense of Security（虚假的安全感）」。画面中出现 Creative Assembly 工作室 Logo 与 ESRB「Rating Pending」等待评级标识，后者意味着游戏已向 ESRB 提交评级申请，通常表明产品正式上市日期已在筹备中。Alien: Isolation 续作于2024年10月正式宣布在研，由原工作室 Creative Assembly 主导开发。此次预告发布时间节点与 Summer Game Fest（6月初）相距约6周，外界普遍猜测正式宣发将在 SGF 或 Xbox Games Showcase 窗口期集中释放。",
+        "source": "Gematsu / Creative Assembly",
+        "business_impact": "Alien: Isolation 2 预告将系列忠实粉丝的期待值拉升至顶点，「Rating Pending」标志暗示发售时间表已进入倒计时；此举配合 RE Requiem 的恐怖类型强劲表现，进一步印证生存恐怖赛道2026年的商业价值",
+        "url": "https://www.gematsu.com/2026/04/alien-isolation-sequel-false-sense-of-security-teaser-trailer",
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/04/Alien-Isolation-2-Teaser_04-26-26.jpg"
+      },
+      {
+        "type": "IP周年运营",
+        "title": "《最终幻想X》25周年官网正式上线，Square Enix 确认周边与黑胶套装，7月19日节点临近",
+        "body": "Square Enix 于4月26日正式上线《最终幻想X》25周年庆典专属官网，宣布将在7月19日（游戏初版 PS2 发售纪念日）前后推出系列周年纪念活动与商品，包括提达斯、尤娜等主要角色毛绒玩具、纪念黑胶套装及艺术画册。《最终幻想X》于2001年7月19日在日本首发，全球总销量超过890万套；包含 X-2 的《HD Remaster》版已覆盖 PS4、Xbox One、Switch、PC 等多平台。此次25周年动作是 Square Enix 近期加速经典 IP 周年运营策略的最新落子，与 FFXIV Evercold 公布、FF7系列的多平台扩张共同构成 FF 品牌的密集曝光窗口。",
+        "source": "Gematsu / Square Enix 官方",
+        "business_impact": "FFX 25周年商品矩阵将有效激活系列老玩家的消费意愿；对 Square Enix 而言，周年运营是低边际成本高情感溢价的核心变现手段，对已有 HD Remaster 的 IP 尤为适用",
+        "url": "https://www.gematsu.com/2026/04/final-fantasy-x-25th-anniversary-website-launched",
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/04/FFX-25th_04-26-26.jpg"
+      },
+      {
+        "type": "行业洞察",
+        "title": "越来越多慈善机构盯上游戏行业：Cause+Select 平台连接开发商与 NGO，公益游戏化正在主流化",
+        "body": "GI.biz 深度报道英国咨询公司 Ctrl+Impact 旗下新平台 Cause+Select，揭示游戏行业公益化加速的背景：随着 USAID 等国际援助机构预算削减，全球慈善机构面临前所未有的资金压力，纷纷将游戏行业视为多元化收入的重要来源。Cause+Select 平台旨在系统性连接游戏开发商、发行商与内容创作者和顶级慈善机构，帮助双方建立从品牌联动到众筹活动的多样化合作路径。创始人 Wayne Emanuel 表示「现在比任何时候都有更多慈善机构在关注游戏」，并指出游戏社区在 Games Done Quick、Humble Bundle 等先例推动下已建立了成熟的公益捐助文化，未来的增长空间在于将碎片化合作系统化、平台化。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "游戏行业的公益化是一个双向价值命题：慈善机构获得游戏流量与社区活跃度，游戏公司获得品牌美誉度与玩家情感粘性；Cause+Select 的平台化尝试若能规模化，将为整个行业提供标准化公益合作基础设施",
+        "url": "https://www.gamesindustry.biz/more-charities-than-ever-are-looking-at-games-meet-causeselect-the-platform-linking-the-games-industry-to-top-charities",
+        "image": "https://assetsio.gnwcdn.com/cause-select.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "marketing": [
+      {
+        "type": "社媒病毒营销",
+        "title": "RE Requiem 庆典派对「意外」流出：Leon 蛋糕+700万+Geoff Keighley，Capcom 最低成本的爆炸性营销时刻",
+        "body": "[品牌动作] Capcom 并未主动发布官方新闻稿，700万销量里程碑通过内部派对照片在社交媒体被「自然流出」——导演 Nakanishi 在 Instagram Stories 分享现场，随即被截图并在 X、Reddit 等平台广泛传播。[社媒反馈] 「Leon蛋糕」与「Geoff Keighley 出现在 Capcom 派对」迅速成为 X 游戏板块周末热词，Reddit r/residentevil 单帖互动量超3万，玩家大量预测 RE 新作将在 SGF 首曝。[商业思考] 这是一次「非正式营销」的典范操作：用内部庆典照片代替正式公告，在周末低谷期制造有机话题，成本几乎为零但传播效果远超付费推广。Capcom 这种「被动病毒」营销路线在游戏行业已多次奏效，与暴雪的故意泄露策略有异曲同工之妙。",
+        "source": "VGC / Instagram / Reddit",
+        "social_metric": "Reddit r/residentevil 派对帖单日互动量超3万，X平台「Geoff Keighley Capcom」热搜",
+        "url": "https://www.videogameschronicle.com/news/capcom-throws-resident-evil-party-featuring-geoff-keighley-as-requiem-clears-7-million-sales/",
+        "image": "https://www.videogameschronicle.com/files/2026/04/Screenshot-2026-04-26-132003.jpg"
+      },
+      {
+        "type": "悬念营销",
+        "title": "Alien: Isolation 2「False Sense of Security」25秒无声预告：悬念制造教科书，SGF 前6周引爆玩家讨论",
+        "body": "[品牌动作] Creative Assembly 选择在周末发布仅25秒的纯氛围预告，无游戏画面、无发售日、无更多信息，仅凭「ESRB Rating Pending」标志和 Logo 动画完成信息传递。[社媒反馈] Gematsu、VGC、IGN 等多家媒体第一时间报道，X 平台「Alien Isolation 2」在30分钟内冲入游戏话题趋势，YouTube 预告片评论区清一色「终于」「SEGA Show什么时候」。[商业思考] 「Rating Pending」是一个极其精准的营销信号——它传递了「游戏真实存在且即将宣布」的信息，同时又不承诺任何具体内容，将玩家情绪精准悬停在最高期待区间。这套「最小信息量最大期待值」的悬念营销，是长线 IP 预热的最高效手段之一。",
+        "source": "Gematsu / YouTube / X",
+        "social_metric": "预告30分钟内冲入 X 游戏话题趋势，YouTube 评论区千条+，多家媒体同步头条报道",
+        "url": "https://www.gematsu.com/2026/04/alien-isolation-sequel-false-sense-of-security-teaser-trailer",
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/04/Alien-Isolation-2-Teaser_04-26-26.jpg"
+      }
+    ],
+    "events": [],
+    "releases": [],
+    "hotlist": [
+      "RE Requiem 700万+Keighley 出席庆典：Capcom 要在 Summer Game Fest 宣布什么？",
+      "Alien Isolation 2「Rating Pending」：25秒预告为何比任何发售日公告都更令人兴奋？",
+      "FFX 25周年官网上线：Square Enix 的周年运营策略是低成本高溢价的商业典范吗？",
+      "RE Requiem 700万 vs Alien Isolation 2：生存恐怖赛道2026年爆发，谁是下一个700万？",
+      "游戏行业公益化：Cause+Select 平台能把慈善机构和游戏公司系统性地连接起来吗？"
+    ]
+  },
+  "2026-04-25": {
+    "date": "2026-04-25",
+    "vol": 20260425,
+    "weekday": "SATURDAY",
+    "ticker": [
+      "《Elden Ring Nightreign》北美/欧洲正式上线，首日 Steam 峰值在线突破68万，刷新 FromSoftware 首日记录",
+      "Xbox CEO Asha Sharma 接受 Game File 专访：将用数据驱动决定独占游戏未来走向，不急于宣布",
+      "最终幻想XIV Fan Fest 2026：新资料片 Evercold 正式公布，Nintendo Switch 2 版本确认年内登陆",
+      "《Saros》全球上线首日口碑炸裂：Housemarque 续作登顶2026年度最高分PS5独占"
+    ],
+    "hero": {
+      "title": "《Elden Ring Nightreign》北美爆发上线 + FFXIV Evercold 登场：4月25日独占与开放并行",
+      "summary": "4月25日周六，游戏行业以发售大日收尾这一周。FromSoftware《Elden Ring Nightreign》北美与欧洲同步开服，首日 Steam 峰值在线突破68万，评测逾2万条好评率94%，刷新 FromSoftware 产品首日纪录；PS5 版同步登顶多国 PSN 下载榜首位。Square Enix 于洛杉矶 FFXIV Fan Fest 2026 正式公布第六资料片《Evercold》，开启「无神领域传说」全新篇章，同步官宣 Nintendo Switch 2 版《最终幻想XIV》年内推出——这是该MMO系列史上首次登陆任天堂主机平台。Xbox方面，新任 CEO Asha Sharma 与 CCO Matt Booty 周六接受 Game File 专访，就本周品牌回归宣言中「重新评估独占策略」一事进一步阐释，表示将以「十年维度」做数据驱动决策，未就 PS5 同步发售时间表作出任何具体承诺。Housemarque 新作《Saros》同步迎来全球发售首日，口碑媒体综评跻身2026年PS5独占最高分行列，Returnal 的进化者证明自身实力。",
+      "tags": [
+        "Elden Ring Nightreign",
+        "FFXIV Evercold",
+        "Switch 2",
+        "Xbox独占战略",
+        "Saros",
+        "Housemarque"
+      ],
+      "stats": [
+        {
+          "num": "68万+",
+          "label": "Nightreign首日Steam峰值在线"
+        },
+        {
+          "num": "第6部",
+          "label": "FFXIV新资料片Evercold序号"
+        },
+        {
+          "num": "2027/1",
+          "label": "Evercold预计上线时间"
+        }
+      ]
+    },
+    "news": [
+      {
+        "type": "游戏发售",
+        "title": "《Elden Ring Nightreign》北美/欧洲正式开服：首日68万Steam在线，好评率94%刷新 FromSoftware 纪录",
+        "body": "FromSoftware 与万代南梦宫共同发行的《Elden Ring Nightreign》于4月25日（北美时间）在北美与欧洲地区正式上线。作为《艾尔登法环》IP 衍生的1-3人合作 Roguelite 新作，游戏首日 Steam 峰值同时在线玩家突破68万，刷新 FromSoftware 旗下任何产品的首日纪录。Steam 评测截至当日逾2万条，好评率94%，玩家普遍评价为「最易上手的魂游」。PS5 版同步登顶美国、英国、日本等多国 PSN 下载榜首位。亚太区将于4月26日正式开服。",
+        "source": "Steam / Bandai Namco",
+        "business_impact": "《Nightreign》以衍生品身份打破 FromSoftware 首日记录，验证了高品质 IP 衍生 Roguelite 的商业模式可行性；94%好评将持续推动口碑长线销售，并为未来 FromSoftware 系列作品的衍生布局提供数据背书",
+        "url": "https://store.steampowered.com/app/2622380/ELDEN_RING_Nightreign/",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/800a6d64a1685c303bf985f084fbf5c08ac2ae5c/capsule_616x353.jpg?t=1773099036"
+      },
+      {
+        "type": "行业动态",
+        "title": "Xbox CEO Asha Sharma 谈独占未来：「用数据与十年维度做决策」，拒绝给出具体时间表",
+        "body": "Xbox 新任 CEO Asha Sharma 与首席内容官 Matt Booty 于4月25日接受 Game File 专访，就本周《Xbox 使命宣言》中「重新评估独占策略」一事进行深度阐释。Sharma 表示：「这些是十年级别的长期决策，我会以数据驱动、战略驱动的方式做出判断，时机成熟时会分享。」两人均未就更多游戏是否同步登陆 PS5 给出具体时间表或承诺。Booty 强调团队正处于「梳理原则」阶段，同时透露微软 Satya Nadella 明确将 Xbox 视为「公司未来十年的关键受众与品类」，订阅增长与 Game Pass 粘性是核心 KPI。",
+        "source": "VGC / Game File",
+        "business_impact": "Xbox 刻意回避给出独占策略具体时间表，显示内部战略仍在制定中；「数据驱动」表述预示未来每款游戏将个别评估 PS5 同步发售可行性，而非整体开放，微软跨平台布局将持续保持不确定性",
+        "url": "https://www.videogameschronicle.com/news/xbox-boss-says-she-wants-to-make-the-right-decision-on-future-game-exclusivity/",
+        "image": "https://www.videogameschronicle.com/files/2026/02/asha-sharma-matt-booty.jpg"
+      },
+      {
+        "type": "游戏发布",
+        "title": "FFXIV Fan Fest 2026 洛杉矶：第六资料片《Evercold》正式公布，Nintendo Switch 2 版年内登陆",
+        "body": "Square Enix 于4月25日在洛杉矶举行的《最终幻想XIV Online》Fan Festival 2026 上，由制作人总监吉田直树主题演讲正式公布游戏第六资料片《Evercold》，开启「无神领域传说」故事弧线，计划2027年1月发售。资料片引入战斗系统全面革新，分为「Reborn Mode（现行战斗体系）」和「Evolved Mode（职业特色强化）」双模式。同台，Square Enix CEO 桐生隆司宣布《最终幻想XIV Online》将于2026年晚些时候登陆 Nintendo Switch 2，是该MMO史上首次进入任天堂主机平台，将有效扩展游戏受众至全新玩家群体。",
+        "source": "VGC / Square Enix 官方",
+        "business_impact": "FFXIV Switch 2 版本将为系列打开任天堂生态庞大用户基盘，与《Evercold》发售节奏协同可形成强力拉新效果；新战斗系统双模式设计兼顾老玩家留存与新玩家降门槛，是直播型MMO维持长线运营的教科书级设计",
+        "url": "https://www.videogameschronicle.com/news/final-fantasy-xiv-online-is-coming-to-switch-2-as-new-expansion-evercold-revealed/",
+        "image": "https://www.videogameschronicle.com/files/2026/04/Screenshot-2026-04-25-104203.jpg"
+      },
+      {
+        "type": "游戏发售",
+        "title": "《Saros》全球发售首日口碑炸裂：Housemarque 续作登顶2026年度最高分PS5独占行列",
+        "body": "Housemarque 与索尼互动娱乐联合出品的 PS5 独占作品《Saros》于4月24日全球上线，4月25日媒体评测综合分数出炉，跻身2026年 PS5 首发独占游戏最高分行列。VGC 评测称其「精湛的游戏手感、恒星级表演」令《Saros》成为 PS5 最难忘的第一方游戏之一。游戏延续《Returnal》的第三人称 Roguelite 射击基因，以主角 Arjun Devraj 的视角探索充满敌意的多样生物群落，Rahul Kohli 的中心演出广受赞誉。分析师普遍认为《Saros》将延续 Housemarque 在高端单人游戏领域为索尼构筑差异化竞争力的战略价值。",
+        "source": "VGC / Push Square",
+        "business_impact": "《Saros》的高口碑延续了 Housemarque 在 PS5 平台的品牌价值积累，强化了索尼以高质量独占构筑差异化竞争壁垒的平台策略；Roguelite 品类在 PS5 高分独占中再次得到验证",
+        "url": "https://www.videogameschronicle.com/review/saros-review/",
+        "image": "https://www.videogameschronicle.com/files/2026/04/cropped-Saros-social-image-.jpg"
+      },
+      {
+        "type": "市场数据",
+        "title": "《超级马力欧银河》全球票房突破7.55亿美元，跃居2026年全球最卖座影片",
+        "body": "Nintendo 与 Illumination 联合出品的《超级马力欧银河》在4月25日（北美上映第25天）的最新周末票仓数据出炉后，全球累计票房正式突破7.55亿美元，超越此前的年度冠军《天马3》，成为2026年全球最卖座电影。北美市场累计约3.61亿美元，是有史以来年度至此时间点的第二高动画北美票仓。该片于4月1日在北美首映，5日全球首映5天即达3.72亿美元，创下2026年全球最强开画纪录。Nintendo-Illumination 双品牌动画宇宙已在全球票仓上超过20亿美元，跻身史上最高票房动画系列第十位。",
+        "source": "GamesIndustry.biz / Deadline",
+        "business_impact": "马力欧银河$7.55亿成年度全球冠军，再次验证游戏IP跨媒体化的商业确定性；Nintendo 在 Switch 2 硬件承压期借电影票仓向资本市场传递IP价值，跨媒体战略成为对冲硬件周期风险的核心工具",
+        "url": "https://www.gamesindustry.biz/super-mario-galaxy-movie-surpasses-755m-globally-becomes-highest-grossing-film-of-2026",
+        "image": "https://assetsio.gnwcdn.com/supermario_FTzjh1g.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "marketing": [
+      {
+        "type": "粉丝节营销",
+        "title": "FFXIV Fan Fest 2026 洛杉矶：全球万名玩家现场见证 Evercold 首曝，Switch 2 官宣引爆社媒",
+        "body": "[品牌动作] Square Enix 将 FFXIV 年度最大营销节点 Fan Fest 搬至洛杉矶，逾万名玩家现场参与。吉田直树主题演讲以 Evercold 全程首曝为高潮，配合 Nintendo Switch 2 版本官宣，形成双重炸点。[社媒反馈] #FFXIV #Evercold 在 X（Twitter）登顶全球游戏趋势，YouTube 直播峰值观看人数超120万，B站游戏区同步出现大量「Switch 2 终于等到FFXIV」相关弹幕刷屏。[商业思考] Fan Fest 作为订阅制MMO的核心营销工具，其价值在于将最具付费意愿的核心玩家聚集于同一时间节点，以集体情绪放大首曝话题的传播半径。Switch 2 官宣在 Fan Fest 现场首发，是精准将消息投放至最高密度游戏媒体覆盖场景的标准教科书操作。",
+        "source": "Square Enix / VGC",
+        "social_metric": "X平台全球游戏趋势登顶，YouTube 直播峰值超120万人",
+        "url": "https://www.videogameschronicle.com/news/final-fantasy-xiv-online-is-coming-to-switch-2-as-new-expansion-evercold-revealed/",
+        "image": "https://www.videogameschronicle.com/files/2026/04/Screenshot-2026-04-25-104203.jpg"
+      },
+      {
+        "type": "上线整合营销",
+        "title": "《Elden Ring Nightreign》北美上线日：Twitch 登顶直播榜、Reddit 单日讨论量历史新高，魂游社区全线爆发",
+        "body": "[品牌动作] 万代南梦宫配合北美开服，在全平台同步发起「首日玩家报告」营销活动：官方 X 账号实时转发玩家截图与精彩片段，Twitch 上 Nightreign 品类直播全天位居全平台峰值在线第一位。[社媒反馈] Reddit r/EldenRingNightreign 社区首日新增帖子逾5000条，Steam 评测2万条中大量用户主动分享「从未有过如此爽快的合作体验」；Twitch 上峰值同时观看超85万，远超预期。[商业思考] 《Nightreign》的营销策略将「产品即内容」发挥到极致——68万峰值在线本身就是最强的社交证明，官方无需大量付费推流，社区自发传播的飞轮已被引燃。这是近年来游戏发行侧「零花费撬动千万曝光」最典型的案例。",
+        "source": "Bandai Namco / Twitch / Reddit",
+        "social_metric": "Twitch峰值观看超85万，Reddit r/EldenRingNightreign 首日5000+帖子，Steam 2万条评测",
+        "url": "https://store.steampowered.com/app/2622380/ELDEN_RING_Nightreign/",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/800a6d64a1685c303bf985f084fbf5c08ac2ae5c/capsule_616x353.jpg?t=1773099036"
+      }
+    ],
+    "events": [
+      {
+        "type": "战略政策",
+        "title": "Xbox「独占重评」宣言后续：Asha Sharma 明确以十年维度做数据驱动决策，未承诺更多 PS5 同步发售",
+        "body": "继本周Xbox品牌回归、使命宣言更新后，新任 Xbox CEO Asha Sharma 在4月25日的 Game File 专访中就「独占策略重评」进行首次深度公开阐释。核心要点：① 将以「decade-long impact（十年级别影响）」框架评估每款游戏的平台策略；② 不打算在短期内给出具体发售规则；③ Satya Nadella 将 Xbox 定位为微软「未来十年的关键受众与品类」，DAU（日活用户）是北极星KPI而非硬件销量。这与本周 GI.biz 的详细报道相互印证：Xbox 正在完成从「硬件平台公司」向「内容与订阅平台公司」的战略转型，但转型节奏将比外界预期更谨慎，以避免对现有 Xbox 硬件用户基盘造成额外冲击。",
+        "source": "VGC / GamesIndustry.biz",
+        "business_impact": "Xbox 的「不急于宣布」策略让市场对其独占走向持续不确定，短期内将压制部分玩家购买 Xbox 硬件的意愿；但长期来看，以数据驱动的逐款游戏决策机制，反而可能使微软在 PS5 版本上实现最大化单款收益",
+        "url": "https://www.videogameschronicle.com/news/xbox-boss-says-she-wants-to-make-the-right-decision-on-future-game-exclusivity/",
+        "image": "https://www.videogameschronicle.com/files/2026/02/asha-sharma-matt-booty.jpg"
+      }
+    ],
+    "releases": [
+      {
+        "type": "发售",
+        "region": "NA/EU",
+        "title": "《Elden Ring Nightreign》北美/欧洲上线",
+        "developer": "FromSoftware",
+        "platforms": [
+          "PC (Steam)",
+          "PS5",
+          "Xbox Series X|S"
+        ],
+        "date": "2026-04-25",
+        "source": "FromSoftware / Bandai Namco",
+        "url": "https://store.steampowered.com/app/2622380/ELDEN_RING_Nightreign/"
+      },
+      {
+        "type": "发售",
+        "region": "Global",
+        "title": "《Saros》",
+        "developer": "Housemarque",
+        "platforms": [
+          "PS5"
+        ],
+        "date": "2026-04-24",
+        "source": "Sony Interactive Entertainment",
+        "url": "https://www.videogameschronicle.com/review/saros-review/"
+      }
+    ],
+    "hotlist": [
+      "《Elden Ring Nightreign》68万首日在线：衍生品也能破纪录，FromSoftware 的 IP 价值上限在哪里？",
+      "FFXIV Evercold + Switch 2：史上最大规模MMO玩家群体即将接触任天堂生态，会发生什么？",
+      "Xbox CEO 谈独占：不急宣布才是正确的，但玩家和市场都等不了十年",
+      "《Saros》发售首日口碑炸裂：Housemarque 已是 PS5 时代最一致的品质保证商",
+      "马力欧银河$7.55亿全球冠军：任天堂靠电影对冲 Switch 2 压力的剧本还能走多久？",
+      "周六发售日的权力：从 Nightreign 到 Saros，为何最强游戏都选择周五/周六开服？"
+    ]
+  },
+  "2026-04-27": {
+    "date": "2026-04-27",
+    "vol": 20260427,
+    "weekday": "MONDAY",
+    "ticker": [
+      "育碧AC Hexe游戏总监Richer出走创立Servo Games，代号Hexe三月内第三位核心主创离任",
+      "People Can Fly宣布收购Cooldown Games，波兰开发商首次建立发行垂直业务线",
+      "东方神话题材Metroidvania《Karma Exorcist》正式公布，登陆PS5/Xbox/Switch/PC"
+    ],
+    "hero": {
+      "title": "育碧AC Hexe核心团队持续瓦解，PCF转身布局发行",
+      "summary": "4月27日，游戏行业创意人才流动与工作室整合双线并行。育碧《刺客信条：代号Hexe》游戏总监Benoit Richer宣告离任并联合创立魁北克新工作室Servo Games，成为该项目三个月内离队的第三位核心创作人，折射出育碧内部创意生态持续失血的深层危机。与此同时，《子弹风暴》开发商People Can Fly宣布收购达拉斯工作室Cooldown Games（由Gearbox、Id Software、Warner前高管创立），首次建立发行业务垂直线，向「开发+发行双轮驱动」转型。两则新闻构成本周开盘日核心行业图景：顶级创作人才以「出走创业」应对大厂创意压抑，而中型工作室则以「主动纳入发行能力」拓宽竞争护城河。",
+      "tags": [
+        "Ubisoft",
+        "育碧",
+        "People Can Fly",
+        "Cooldown Games",
+        "AC Hexe"
+      ],
+      "stats": [
+        {
+          "num": "3",
+          "label": "AC Hexe三月内离队核心主创数"
+        },
+        {
+          "num": "2024",
+          "label": "Cooldown Games成立年份"
+        },
+        {
+          "num": "2",
+          "label": "今日重大行业并购/人才事件"
+        }
+      ]
+    },
+    "news": [
+      {
+        "type": "创意人才",
+        "title": "育碧AC Hexe三月内第三位主创出走：Richer创立Servo Games，代号Hexe命运未卜",
+        "body": "育碧《刺客信条：代号Hexe》游戏总监Benoit Richer在LinkedIn公告离任，联合Luc Tremblay（总裁兼创意总监）、Alex Drouin（动画总监）和Dany Marcoux（美术总监）共同创立魁北克独立工作室Servo Games。Richer是三个月内离开代号Hexe核心岗位的第三位主创——GamesIndustry.biz将此定性为「在研项目第三次重大团队变动」。代号Hexe是一款以神秘德意志地区女巫为背景的《刺客信条》新作，连续发生核心人才流失，在育碧内部显示出不寻常的创意动荡。Servo Games的具体立项内容尚未披露，但多位前育碧骨干联合出走延续了行业近两年主创出走浪潮的大趋势。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "育碧旗舰IP核心团队持续离散，Hexe开发进度与最终品质面临不确定性；育碧内部创意人才留存问题再度受到行业广泛关注",
+        "url": "https://www.gamesindustry.biz/benoit-richer-assassins-creed-codename-hexe-game-director-leaves-ubisoft",
+        "image": "https://assetsio.gnwcdn.com/ac-shadows_2Dk8ebP.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "新游公布",
+        "title": "东方神话题材Metroidvania《Karma Exorcist》正式公布，限时PC公测已开启",
+        "body": "发行商Infini Fun与开发商Cyclos宣布东方神话题材Metroidvania动作冒险游戏《Karma Exorcist》，将登陆PS5、Xbox Series、Nintendo Switch及PC（Steam）。游戏目前进入生产后期阶段，发售日期未定，限时PC公测已同步上线。Cyclos透露：「我们正处于生产阶段尾声，测试对于在正式发售前打磨作品至关重要。」游戏以东方驱邪与神话元素构建银河战士类探索玩法，融入中国传统美学视觉语言，在全球Metroidvania市场中具备差异化定位。发行商Infini Fun此前有《Astlibra Revision》发行经验。",
+        "source": "Gematsu",
+        "business_impact": "东方文化IP与Metroidvania品类结合的差异化定位，在全球产品密集市场中具有一定发现性，东亚与东南亚玩家群体或成核心目标",
+        "url": "https://www.gematsu.com/2026/04/eastern-mythology-themed-metroidvania-game-karma-exorcist-announced-for-ps5-xbox-series-switch-and-pc",
+        "image": "https://assetsio.gnwcdn.com/GCAP-Conference-Day-03-(274-of-354).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "并购动态",
+        "title": "People Can Fly收购Cooldown Games：《子弹风暴》开发商正式建立发行垂直业务",
+        "body": "波兰开发商People Can Fly宣布收购达拉斯工作室Cooldown Games，并在自身运营结构中建立发行垂直线，为Cooldown现有第三方项目提供成长资本与运营支持。Cooldown Games成立于2024年，由来自Gearbox、Id Software和华纳的行业老兵创立，CEO Steve Gibson曾任Gearbox Publishing总裁。PCF表示这是向「拥有完整开发+发行能力」转型战略的关键一步。People Can Fly此前以《子弹风暴》《战争机器：审判》和《Outriders》知名，近年持续向独立化方向发力；此次收购标志着中型工作室通过纵向整合发行能力打破平台依赖的趋势持续深化。收购金额未披露。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "中型欧洲工作室向发行垂直整合转型的路径再获验证，PCF+Cooldown组合能否实现开发与发行协同将成业界重要观察样本",
+        "url": "https://www.gamesindustry.biz/bulletstorm-dev-people-can-fly-acquires-cooldown-games",
+        "image": "https://assetsio.gnwcdn.com/pcf-cooldown.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "发售定档",
+        "title": "热血系列新作《River City Saga: Journey to the West》定档6月4日，PS5/Switch/PC三平台",
+        "body": "Arc System Works与开发商UnitePlus宣布Roguelite动作游戏《River City Saga: Journey to the West》将于6月4日登陆PlayStation 5、Nintendo Switch及PC（Steam），售价.99（约2,970日元）。游戏以热血/River City系列宇宙为基础构建西游题材Roguelite玩法，融合横版动作与程序生成关卡设计，定价亲民。River City系列凭借高辨识度的热血打斗气质在全球拥有稳定粉丝基础，西游元素的东方文化融合有望进一步扩展受众边界。",
+        "source": "Gematsu",
+        "business_impact": "热血IP的Roguelite化是Arc System Works「IP延伸+类型融合」战略的又一实验，亲民定价有助于触达更广泛的入门级动作游戏玩家",
+        "url": "https://www.gematsu.com/2026/04/river-city-saga-journey-to-the-west-launches-june-4",
+        "image": "https://assetsio.gnwcdn.com/nintendo-switch-21.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "marketing": [
+      {
+        "type": "IP周年营销",
+        "title": "Final Fantasy X 25周年官网上线：Square Enix以限定周边激活890万玩家情感记忆",
+        "body": "[品牌动作] Square Enix为《最终幻想X》25周年（2001年7月19日首发，全球累计销量逾890万套）正式上线专题纪念网站，同步发布系列限定商品：Tidus、Yuna等角色玩偶、限量黑胶唱片套装及全新画集，纪念日定档2026年7月19日。[社媒反馈] FFX是Final Fantasy系列中情感认同度最高的作品之一，25周年官宣消息在X平台引发大量「Zanarkand主题曲」相关UGC与情感帖，Yuna相关内容在TikTok出现讨论热潮，社区自发翻唱视频持续传播。[商业思考] Square Enix以「纪念品+专题网站」双轮驱动的IP周年营销，是低成本激活沉睡粉丝情感资产、推动周边变现的标准打法；同时也为潜在的FFX重制版或移动化版本做舆论铺垫。",
+        "source": "Gematsu / Square Enix官方",
+        "social_metric": "X平台FFX 25周年话题引发大量UGC，TikTok Yuna相关内容热度持续上升",
+        "url": "https://www.gematsu.com/2026/04/final-fantasy-x-25th-anniversary-website-launched",
+        "image": "https://assetsio.gnwcdn.com/SIE.blog_SIE-Banner_Grey_5R2ACse.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "events": [],
+    "releases": [
+      {
+        "title": "《River City Saga: Journey to the West》",
+        "platforms": [
+          "PS5",
+          "Switch",
+          "PC"
+        ],
+        "date": "2026-06-04",
+        "source": "Gematsu"
+      },
+      {
+        "title": "《Mahou Arms》",
+        "platforms": [
+          "PC",
+          "Switch 2"
+        ],
+        "date": "2026-04-27",
+        "source": "Gematsu"
+      }
+    ],
+    "hotlist": [
+      "育碧AC Hexe三月内第三位主创出走：代号Hexe还能按计划做完吗？",
+      "People Can Fly入局发行：中型开发商自建发行线是护城河还是分心？",
+      "Karma Exorcist公布：东方神话Metroidvania，差异化定位能否突围拥挤市场？",
+      "FF X 25周年：Zanarkand的旋律永不过时，Square Enix的IP周年营销教科书",
+      "River City Saga西征记6月4日定档：热血打人游戏做Roguelite，新公式成立吗？"
+    ]
   }
 }
