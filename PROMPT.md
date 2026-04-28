@@ -188,7 +188,18 @@
    - 育碧 logo：`https://assetsio.gnwcdn.com/ubisoft-logo-black.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp`
    - SIE banner：`https://assetsio.gnwcdn.com/SIE.blog_SIE-Banner_Grey_5R2ACse.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp`
    - Switch 2：`https://assetsio.gnwcdn.com/nintendo-switch-21.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp`
+   - 王者荣耀/移动游戏：`https://assetsio.gnwcdn.com/honor-of-kings_3HREHTB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp`
+   - 手游通用：`https://assetsio.gnwcdn.com/person-playing-mobile.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp`
 3. **严禁**自行拼接 `assetsio.gnwcdn.com` 文件名——该 CDN 没有规律性文件名，猜出来的路径返回 403。只能使用在文章页中实际抓到的 OG 图片 URL。
+
+> ⚠️ **【2026-04-28 新增经验教训】通用备用图滥用警告：**
+> 上述通用备用图（GCAP会议图、SIE banner 等）**仅限于穷尽所有查找手段后的最终兜底**，不得因「找图麻烦」而提前使用。
+> **正确执行顺序（每条 image 字段必须走完此流程，不可跳过）：**
+> 1. **Playwright 访问原文** → 提取 `og:image` meta 标签（优先级最高，白名单域名直接使用）
+> 2. **找不到白名单图？** → 搜索该事件是否有英文白名单报道（GI/VGC/Gematsu），用其 OG 图
+> 3. **仍无白名单图？** → 从 Steam、App Store、IGDB、YouTube 缩略图等官方渠道获取与**主角游戏/公司直接相关**的图片，并验证可访问（非防盗链域名）
+> 4. **以上均失败？** → 才允许使用通用备用图，且**必须在汇报中注明「使用通用兜底图，原因：...」**
+> **绝对禁止：** 同一日报中超过 2 条条目使用相同的通用备用图。如发生此情况，说明 Phase 2 图片校验被跳过，必须回头补齐。
 
 ---
 
@@ -208,4 +219,4 @@
 - [ ] **全局去重**：逐条扫描三个模块，同一厂商 + 同一动作 + 同一时间 = 同一事件，只保留信源最权威的一条，跨模块重复条目同样删除。
 
 ---
-*最后更新：v9 | 2026-04-24（新增 Section 6 图片防盗链白名单规则）*
+*最后更新：v10 | 2026-04-28（新增通用备用图滥用警告与强制图片查找流程）*
