@@ -3426,5 +3426,111 @@
       "FF X 25周年：Zanarkand的旋律永不过时，Square Enix的IP周年营销教科书",
       "River City Saga西征记6月4日定档：热血打人游戏做Roguelite，新公式成立吗？"
     ]
+  },
+  "2026-04-28": {
+    "date": "2026-04-28",
+    "vol": 20260428,
+    "weekday": "TUESDAY",
+    "ticker": [
+      "Capcom上调FY25财测：《生化危机：安魂曲》驱动净销售额增至1953亿日元，净利润增至545亿",
+      "Valve确认Steam Deck 2在研，内存短缺导致原版Steam Deck持续缺货",
+      "名越工作室YouTube频道突然消失，网易撤资4440万美元后《Gang of Dragon》命运扑朔迷离"
+    ],
+    "hero": {
+      "title": "《生化危机：安魂曲》驱动Capcom上调年度财测，Valve确认Steam Deck 2在研",
+      "summary": "4月28日，Capcom正式上调FY25全年财务预测：预计净销售额1953亿日元（同比+2.8%），净利润545亿日元（+6.9%），核心驱动力是《生化危机：安魂曲》超预期的持续热销表现——该作自发售以来销量已突破700万套，成为《生化危机》系列史上销售速度最快的作品。财测上调不仅验证了Capcom在恐怖游戏赛道的统治级地位，也再次证明顶级IP的首发质量与长线销售之间的强正相关性。同日，Valve开发者Pierre-Loup Griffais接受IGN采访时确认Steam Deck 2仍在积极研发，并承认原版Steam Deck因全球内存短缺而持续供货紧张。国内战线，名越稔洋创立的Nagoshi Studios官方YouTube频道突然下架全部内容，与网易撤资4440万美元的消息形成直接关联——这是网易大规模收缩海外投资战略最新也最具戏剧性的落幕场景。与此同时，HoYoverse宣布《绝区零》将于Q2登陆Steam，标志着这家此前刻意绕开Steam的头部二游厂商在渠道策略上的重大转向，或为后续更大体量产品入驻铺路。",
+      "tags": [
+        "Capcom",
+        "生化危机",
+        "Valve",
+        "Steam Deck 2",
+        "名越稔洋",
+        "网易",
+        "HoYoverse"
+      ],
+      "stats": [
+        {
+          "num": "700万+",
+          "label": "生化危机安魂曲累计销量"
+        },
+        {
+          "num": "1953亿日元",
+          "label": "Capcom FY25预计净销售额"
+        },
+        {
+          "num": "50.47亿",
+          "label": "巨人网络2025年营收（元）"
+        }
+      ]
+    },
+    "news": [
+      {
+        "type": "财报动态",
+        "title": "Capcom上调FY25财测：《安魂曲》驱动销售额逼近12亿美元新高",
+        "body": "Capcom正式发布FY25上调后预测：预计净销售额1953亿日元（约12.2亿美元，同比+2.8%），净利润545亿日元（约3.42亿美元，+6.9%）。核心驱动因素是《生化危机：安魂曲》持续超预期的热销表现——该作3月发售后迅速突破500万套，4月初突破600万套，最新官方数据已超700万，成为系列史上销售最快的作品。除核心新游外，Capcom同时披露旗下主要IP目录作品销售也因持续人气实现可观追加，街机、运营及周边业务亦保持稳健。本次财测上调是Capcom近三年内第六次向上修正全年预测，印证了以恐怖、格斗为核心的双IP战略的高度确定性。",
+        "source": "GamesIndustry.biz / Capcom官方",
+        "business_impact": "《生化危机》系列证明顶级恐怖IP在主机市场的统治力，Capcom双IP战略为行业提供精品内容变现的最优参考范本",
+        "url": "https://www.gamesindustry.biz/capcom-raises-fy25-outlook-following-boost-from-resident-evil-requiem",
+        "image": "https://assetsio.gnwcdn.com/requiem_YL3NLSX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "行业风波",
+        "title": "名越工作室YouTube频道骤然消失：网易撤资4440万美元后《Gang of Dragon》命悬一线",
+        "body": "近日，玩家发现如龙系列缔造者名越稔洋创立的Nagoshi Studios官方YouTube频道已彻底消失，旗下全部影片同步遭到清除，仅TGA首发预告与Steam页面残留。工作室方面对此保持沉默，未发表任何声明。事件直接背景是：此前彭博社披露网易在获知《Gang of Dragon》需追加约70亿日元（约4440万美元）预算后，已决定撤资。游戏原定以新宿歌舞伎町为舞台、马东锡主演，但历经数轮缩减后的版本仍超支严峻。GameLook深度分析指出，Nagoshi Studios作为网易100%持股工作室，其命运几乎与《Gang of Dragon》完全捆绑；在全球资金向AI集中、游戏投资几近停滞的背景下，重新找到外部资金的难度极高。这是名越稔洋离开世嘉后四年心血的可能终结，也是网易大规模收缩海外游戏投资战略最具戏剧性的落幕场景。",
+        "source": "GameLook",
+        "business_impact": "大厂海外明星制作人工作室的投资泡沫正在快速出清，「品牌溢价+大预算」模式在资本寒冬期的可持续性受到严峻考验",
+        "url": "http://www.gamelook.com.cn/2026/04/592231/",
+        "image": "https://assetsio.gnwcdn.com/GCAP-Conference-Day-03-(274-of-354).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "硬件动态",
+        "title": "Valve确认Steam Deck 2仍在研，内存危机导致原版持续缺货：「我们能做的有限」",
+        "body": "Valve资深程序员Pierre-Loup Griffais接受IGN专访时正式确认：Steam Deck 2目前处于积极研发阶段，「我们正在全力推进」，并表示新一代产品将是Steam Controller、Steam Machine到Steam Deck技术积累的自然延伸，不会是革命性的路线转变。同时Griffais承认原版Steam Deck自今年初以来在美国等多地持续严重缺货——根本原因是AI数据中心大量采购内存与存储芯片，导致全球供应链价格飙升、对消费级设备的供货形成挤压。「关于内存短缺，我们能做的非常有限，」他坦言，表示Valve正在与合作伙伴共同寻求解决方案，但短期内缺货局面可能持续。这一表态使Steam Deck 2的发布时间表依然模糊，但至少消除了外界对该产品是否被搁置的疑虑。",
+        "source": "VGC / IGN",
+        "business_impact": "AI算力争夺已对消费级游戏硬件供应链造成结构性冲击，掌机赛道在内存成本上行期面临系统性压力",
+        "url": "https://www.videogameschronicle.com/news/were-hard-at-work-on-it-valve-says-steam-deck-2-is-still-in-development-acknowledges-ongoing-steam-deck-stock-issues/",
+        "image": "https://www.videogameschronicle.com/files/2021/07/Steam-Deck-6.jpeg"
+      }
+    ],
+    "marketing": [
+      {
+        "type": "渠道战略",
+        "title": "《绝区零》率先登陆Steam：HoYoverse「绕开Steam」策略正式终结，渠道棋局重新布局",
+        "body": "[品牌动作] HoYoverse宣布《绝区零》将于2026年Q2正式上线Steam，目前已开启先遣测试招募，页面维持锁国区设置。这是HoYoverse时隔多年首次将现役主力产品引入全球最大PC游戏平台——此前《原神》《崩坏：星穹铁道》均选择绕开Steam，走自营渠道和Epic商店。[社媒反馈] 消息在国内AI游戏社群和Steam讨论区引发热议，「绝区零和原神啥时候来」的讨论已提前出现，HoYoverse代码中此前被发现的「绑定Steam账号」字符串被重新翻出。[商业思考] 《绝区零》入驻Steam被业界视为HoYoverse对Steam渠道的系统性测试第一步：游戏本身有独立PC客户端、适配优良，且已通过「重新公测」完成口碑修复，是跑这条路线风险最可控的产品。其跑出来的数据，将直接决定《原神》《崩坏：星穹铁道》是否以及何时以何种姿态跟进，对整个国产二游赛道的Steam渠道策略具有标杆意义。",
+        "source": "GameLook / Steam官方",
+        "social_metric": "Steam先遣测试招募上线，国内二游社群讨论热度骤升，后续原神入驻预期引发广泛期待",
+        "url": "http://www.gamelook.com.cn/2026/04/592238/",
+        "image": "https://assetsio.gnwcdn.com/SIE.blog_SIE-Banner_Grey_5R2ACse.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "events": [
+      {
+        "type": "财报解读",
+        "title": "巨人网络2025年报：营收首破50亿大关，《超自然行动组》DAU突破1000万",
+        "body": "巨人网络发布2025年度报告：全年营收50.47亿元（同比+72.69%），净利润17.55亿元（+23.13%），首次突破50亿营收关口。增长主引擎是中式微恐搜打撤手游《超自然行动组》——上线不足两年累计流水超50亿元，DAU突破1000万，累计注册用户超2亿，已跻身国内「千万DAU长青游戏」行列，带动巨人股价从2024年低位约8元上涨至峰值53元。2026年Q1延续强势：营收23.29亿元（+221.70%），净利润10.80亿元（+210.58%）。AI技术层面，游戏的「AI假人」玩法参与对局突破4亿场，2D美术资产AI辅助生成占比超80%。游戏已在中国港澳台试运营，计划2026年全球发行。另一核心品牌《征途》IP全系产品累计流水超300亿，《原始征途》小游戏2025年新增用户3000万，稳守国战MMORPG基盘。",
+        "source": "GameLook / 巨人网络官方年报",
+        "business_impact": "「中式微恐+搜打撤」品类验证结束：《超自然行动组》成为2025年国内最具商业确定性的爆款样本，AI原生玩法的大规模落地或成行业新基准",
+        "url": "http://www.gamelook.com.cn/2026/04/592192/",
+        "image": "https://assetsio.gnwcdn.com/GCAP-Conference-Day-03-(274-of-354).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "财报解读",
+        "title": "三七互娱Q1 2026营收37.20亿，净利润同比+59%：《Last Asylum》出海闯入全球手游收入增长TOP10",
+        "body": "三七互娱发布2026年第一季度报告：Q1营收37.20亿元（环比+6.15%），归母净利润8.73亿元（同比+59.02%）。业绩增长双轮驱动：一是存量产品精细化运营效率提升；二是新品贡献——《生存33天》《RO仙境传说：世界之旅》《Last Asylum: Plague》多款新游表现优异。其中《Last Asylum: Plague》全球表现尤为亮眼，据Sensor Tower 3月数据，该游戏跻身「全球手游收入增长榜」TOP 10，同时进入「中国手游海外收入增长榜」前五，是三七出海战略的最新验证。财务面，三七宣布Q1每10股派现2.10元，延续近年来持续加大分红的股东回报策略，自2020年来累计分红已超百亿元。在研产品矩阵包含《赘婿》《斗破苍穹》《斗罗大陆》等多款IP改编游戏，全球化发行布局持续推进。",
+        "source": "GameLook / 三七互娱官方公告",
+        "business_impact": "三七互娱出海能力再获数据验证，「大IP改编+海外发行」双轨策略在全球手游市场持续奏效",
+        "url": "http://www.gamelook.com.cn/2026/04/592165/",
+        "image": "https://assetsio.gnwcdn.com/GCAP-Conference-Day-03-(274-of-354).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "releases": [],
+    "hotlist": [
+      "《生化危机：安魂曲》700万套：Capcom财测上调的底气来自哪里？",
+      "名越工作室YouTube清空，网易撤资：《如龙》之父的新梦想离破碎有多近？",
+      "Steam Deck 2确认在研，但内存危机让AI把存储都「吃掉」了",
+      "《绝区零》登陆Steam：HoYoverse是在试水还是全面转向渠道策略？",
+      "《超自然行动组》DAU破千万、流水超50亿：中式微恐+搜打撤成了新爆款公式？",
+      "三七互娱《Last Asylum》出海杀进全球TOP10：「大IP改编+海外发行」还有多少空间？"
+    ]
   }
 }
