@@ -3532,5 +3532,129 @@
       "《超自然行动组》DAU破千万、流水超50亿：中式微恐+搜打撤成了新爆款公式？",
       "三七互娱《Last Asylum》出海杀进全球TOP10：「大IP改编+海外发行」还有多少空间？"
     ]
+  },
+  "2026-04-29": {
+    "date": "2026-04-29",
+    "vol": 20260429,
+    "weekday": "WEDNESDAY",
+    "ticker": [
+      "GreedFall开发商Spiders宣告清算关闭：Nacon找不到买家，成立26年的法国工作室走入终局",
+      "Digital Bros. 460万美元买断《武曲：落羽》IP：505 Games出版商获完整IP所有权",
+      "4月版号批次154款过审：《弧光猎人》（ARC Raiders）拿到国行入场券，网易《遗忘之海》同批次"
+    ],
+    "hero": {
+      "title": "Spiders关闭与《武曲》IP易主：同日揭示中型工作室在资本寒冬中的两种命运",
+      "summary": "4月29日，游戏产业中型工作室的两种命运在同一天并排呈现。法国《GreedFall》开发商Spiders正式宣告清算关闭——母公司Nacon在找不到任何买家的情况下启动清算程序，工作室26年运营史就此终结；而几乎同时，Digital Bros./505 Games以460万美元从开发商Leenzee手中买断《武曲：落羽》IP，将这款累计销售100万套的SoulSlike游戏的全生命周期价值收归旗下。两则新闻构成鲜明对照：一个是在资本寒冬中无人愿意接盘的中型创意工作室，另一个是在同一寒冬中以低价锁定已验证IP资产的精明采购。与此同时，国内4月版号批次154款过审，全球销量突破1500万的《ARC Raiders》拿到国行入场券（以「弧光猎人」为名），网易雷火开放世界新作《遗忘之海》同批次获批，为Q3上线铺路。《异环》则在海外180多个国家同步上线，日韩iOS免费榜双双登顶，首日数据验证了完美世界出海策略的有效性。",
+      "tags": [
+        "Spiders",
+        "GreedFall",
+        "Digital Bros",
+        "武曲",
+        "ARC Raiders",
+        "版号",
+        "异环"
+      ],
+      "stats": [
+        {
+          "num": "154款",
+          "label": "4月版号过审总数"
+        },
+        {
+          "num": "$4.6M",
+          "label": "Digital Bros收购武曲IP金额"
+        },
+        {
+          "num": "1500万",
+          "label": "ARC Raiders全球销量"
+        }
+      ]
+    },
+    "news": [
+      {
+        "type": "工作室关闭",
+        "title": "GreedFall开发商Spiders宣告清算：Nacon找不到买家，26年法国工作室走入终局",
+        "body": "《GreedFall》及其前传《GreedFall: The Dying World》的开发商、法国工作室Spiders正式对外宣布，公司已确认进入清算程序。工作室在X平台发文称「在漫长的等待之后，我们得到了确认：Spiders即将被清算，公司作为整体将即刻停止运营」，并为此前长达一个月的沉默道歉。事件背景是母公司Nacon在《GreedFall: The Dying World》3月离开抢先体验状态后，寻求出售Spiders但未能找到任何买家，最终选择清算。计划中的DLC将由Nacon代为发布，但此后Nacon对该系列的支持计划尚不明确。Spiders成立于1999年，是法国AA级RPG开发的代表性工作室之一，旗下作品包括《GreedFall》《Steelrising》等。这是继Eidos Montreal裁员、Massive裁员之后，2026年欧洲游戏开发商又一次重量级关闭事件。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "Nacon清盘Spiders表明中型欧洲工作室在当前环境下几乎无法找到战略买家，AA级RPG赛道的独立生存空间正在急剧收窄",
+        "url": "https://www.gamesindustry.biz/greedfall-developer-spiders-reportedly-set-to-close",
+        "image": "https://assetsio.gnwcdn.com/greedfall_X2W1zoQ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "平台技术",
+        "title": "Amazon试点Twitch云端可玩Demo：GameLift Streams首次与游戏营销闭环结合",
+        "body": "Amazon正在Twitch平台测试一项可直接运行游戏Demo的新功能。据游戏记者Zac Bussey披露，他在Twitch上无需下载即可启动Tarsier Studios新作《Reanimal》的20分钟限时Demo，底层技术依托AWS的GameLift Streams云游戏服务——该服务支持通过浏览器以1080p/60fps流式运行游戏。Demo倒计时归零后，用户会被直接引导至Steam产品页面。Bussey指出该功能「主要面向广告产品定位」。Amazon已向GamesIndustry.biz确认正在评估更广泛的发布计划，但定价与接入条件尚未公开。若正式推出，这将是首个将云游戏能力与主流直播平台原生集成的「可玩广告」方案，对游戏营销漏斗的效率改造具有颠覆性潜力。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "云游戏与直播平台的原生整合一旦规模化，将重构游戏试玩、买量与转化的整个链路，对Steam流量分配格局产生深远影响",
+        "url": "https://www.gamesindustry.biz/amazon-pilots-playable-game-demos-on-twitch",
+        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-04-29-at-08.34.32.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "IP并购",
+        "title": "Digital Bros. 460万美元买断《武曲：落羽》IP：100万销量的SoulSlike全价值归属505 Games",
+        "body": "Digital Bros.（505 Games母公司）宣布以约460万美元（3200万人民币）从开发商成都凌泽科技（Leenzee）手中全额收购《武曲：落羽》的IP所有权。该SoulSlike游戏2025年发行后累计销售100万套，产生约3510万美元收入。Digital Bros.表示，此次收购「将增强集团就游戏未来开发与相关投资做出及时决策的能力」，同时免除未来向开发商支付的版税义务，彻底锁定整个IP生命周期的价值回收。与此同时，本次PS Plus 5月阵容中《武曲》也赫然在列（见下文），这将为IP带来新一轮订阅端曝光，与收购时机形成战略协同。此交易是西方发行商以低价买断已验证中国动作IP的典型案例，折射出当前资本对「已验证小体量IP」的逆周期采购逻辑。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "中国开发商开发、西方发行商买断IP的协作模式在财务压力下正在常态化，对中国中小开发商的IP议价权构成长期影响",
+        "url": "https://www.gamesindustry.biz/digital-bros-acquires-wuchang-fallen-feathers-ip-for-46m",
+        "image": "https://assetsio.gnwcdn.com/wuchang-3244033552.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "平台扩张",
+        "title": "Starbreeze宣布第二款Roblox游戏：Notoriety 4亿次访问后，Payday宇宙深扎Z世代平台",
+        "body": "Starbreeze宣布将与Gamefam合作推出第二款 Roblox 游戏，以继续拓展 Payday 宇宙在 Gen Z/Alpha 平台的生态布局。首款产品《Notoriety: A Payday Experience》由 Moonstone Games 开发，已在 Roblox 上积累超过 4 亿次访问量，玩家好评率达 92%，Starbreeze 将其定位为「Roblox 上最成功的合作类游戏 IP 之一」。新作将由 Gamefam——Roblox 上最具经验的专业游戏发行商之一——负责开发与运营，目标是为玩家提供「进入 Payday 宇宙的全新入口」。此举是传统游戏 IP 向 UGC 平台扩张的典型样本：Roblox 作为拥有超 8000 万日活的平台，正在成为主机/PC IP 触达年轻一代玩家不可忽视的前置漏斗。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "Roblox 正在演化为传统游戏 IP 拓展年轻受众的标准渠道之一，4 亿次访问的先例将加速更多中型 IP 向 UGC 平台迁移",
+        "url": "https://www.gamesindustry.biz/starbreeze-to-capitalize-on-roblox-success-with-second-game",
+        "image": "https://assetsio.gnwcdn.com/Notoriety-Roblox-3158123039.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "marketing": [
+      {
+        "type": "出海首战",
+        "title": "《异环》海外180国同步上线：日韩iOS双榜登顶，国服「预防针」意外帮了海外口碑",
+        "body": "[品牌动作] 4月29日，完美世界《异环》（Neverness to Everness）正式在海外180多个国家和地区同步上线，覆盖PC/iOS/Android/PS5/Mac全平台。线下营销策略激进：日本Fami通杂志拿下封面及18页专题，首尔弘大举办线下沉浸式活动，Twitch主播推广持续铺量。[社媒反馈] iOS免费榜：日本、韩国双双登顶，美国第3、英国第2、加拿大第4；共进入26个国家和地区免费榜TOP10；巴基斯坦零买量冲至免费榜第1成意外话题。Reddit/Discord英文区好评集中于「不歪」卡池机制、SCP风格叙事、PS5零崩溃体验；差评聚焦移动端优化与前段剧情节奏。[商业思考] 完美世界在国服上线6天后的海外发布，策略性地利用了「国服玩家提前打好预防针」效应——海外玩家已有心理预期，规避了情绪式差评炸锅；同日发布45条Bug修复清单+S级自选角色补偿，将危机公关转化为诚意加分。",
+        "source": "GameLook",
+        "social_metric": "日本/韩国iOS免费榜第1，美国第3，英国第2，进入26国TOP10；巴基斯坦零买量登顶成社媒热议",
+        "url": "http://www.gamelook.com.cn/2026/04/592367/",
+        "image": "https://i.ytimg.com/vi/Qd7oui9YCUM/maxresdefault.jpg"
+      },
+      {
+        "type": "平台运营",
+        "title": "PS Plus 5月阵容：EA Sports FC 26领衔，《九日》《武曲》同档——订阅制正在重塑独立游戏发现路径",
+        "body": "[品牌动作] 索尼公布PlayStation Plus 5月免费游戏阵容（5月5日起至6月1日），三款作品为：EA Sports FC 26（PS5/PS4）、Nine Sols（《九日》，PS5/PS4）、WUCHANG: Fallen Feathers（《武曲：落羽》，PS5）。EA Sports FC 26专为PS Plus订阅者附赠Icons Pack特典。[社媒反馈] Reddit r/PS5 及 r/PlayStationPlus 社区对本月阵容评价积极，《九日》被视为「PS Plus近年最佳独立精品之一」，《武曲》赶在IP刚被Digital Bros.收购之际加入订阅催热机会被广泛讨论。[商业思考] 《武曲》进入PS Plus的时机与Digital Bros.同日收购IP形成战略共振——订阅端的大规模曝光将直接为IP价值背书，验证新主人的资产定价逻辑，也将进一步刺激PC/主机端的付费转化。",
+        "source": "Gematsu / PlayStation官方",
+        "social_metric": "Reddit r/PlayStationPlus 评论区《九日》好评热度领先，《武曲》订阅时机与收购新闻共振引发广泛讨论",
+        "url": "https://www.gematsu.com/2026/04/playstation-plus-monthly-games-lineup-for-may-2026-announced",
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/04/PS-Plus-Monthly_04-29-26.jpg"
+      }
+    ],
+    "events": [
+      {
+        "type": "版号政策",
+        "title": "4月版号154款过审：《弧光猎人》（ARC Raiders）获批国行，网易《遗忘之海》Q3上线铺路",
+        "body": "国家新闻出版署公布4月国产及进口网络游戏审批结果，共计154款游戏获批（147款国产+7款进口），较3月133款环比增加21款。进口批次最受关注的是腾讯引进的《弧光猎人》——即Embark Studios开发的搜打撤大作《ARC Raiders》，该游戏2025年10月海外发售后全球销量突破1500万份，腾讯专门成立工作室「熵和逸成」负责其国内本地化定制研发与运营。国产批次中，网易雷火开放世界新作《遗忘之海》同批次获批，此前网易财报电话会曾透露其预计Q3上线；腾讯《洛克王国：精灵牌》（TCG品类扩展）、巨人《冰雪之笼》等亦在列。版号变更方面，库洛《战双帕弥什》运营主体从上海映雄体育文化迁移至广州库洛科技，完成合规主体整合。本月版号节奏平稳向上，监管层面对游戏行业维持相对宽松姿态。",
+        "source": "GameLook / 国家新闻出版署",
+        "business_impact": "《弧光猎人》入场标志着Embark Studios产品正式打通中国市场；《遗忘之海》版号落地为网易Q3旗舰产品线提供监管确定性，行业整体版号供给改善对中小开发商信心有积极支撑",
+        "url": "http://www.gamelook.com.cn/2026/04/592347/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/8a13d6b20fb06d317cff6bbf35d276b70313b5d2/capsule_616x353_alt_assets_4.jpg?t=1776865359"
+      }
+    ],
+    "releases": [
+      {
+        "title": "《Thick As Thieves》（PC抢先发布）",
+        "platforms": [
+          "PC"
+        ],
+        "date": "2026-05-20",
+        "source": "Gematsu / OtherSide Entertainment"
+      }
+    ],
+    "hotlist": [
+      "Spiders关闭：Nacon找不到买家——谁来接盘欧洲AA级RPG工作室？",
+      "Digital Bros.买断《武曲》IP：500万美元锁定100万销量的SoulSlike，这笔账怎么算？",
+      "Amazon Twitch云端可玩Demo：下一代「可玩广告」要颠覆Steam试玩下载模式了？",
+      "《异环》海外日韩双榜登顶：国服预防针反而成了出海最大利器？",
+      "《弧光猎人》（ARC Raiders）拿到版号：1500万全球销量的搜打撤大作要进中国了",
+      "PS Plus 5月：《九日》进订阅——独立精品加入PS Plus是好事还是坏事？"
+    ]
   }
 }
