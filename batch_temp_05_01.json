@@ -1,0 +1,81 @@
+{
+  "2026-05-01": {
+    "date": "2026-05-01",
+    "vol": 20260501,
+    "weekday": "FRIDAY",
+    "ticker": [
+      "Roblox Q1财报：营收14亿美元+39%，DAU 1.32亿，但年龄验证措施导致全年预期下调",
+      "Epic Games Store正式登陆日本iPhone：MSCA反垄断法落地，苹果被迫开放第三方商店",
+      "Krafton Q1创纪录：营收9.31亿美元同比+57%，PUBG移动端付费用户+17%驱动增长"
+    ],
+    "hero": {
+      "title": "Roblox财报与Epic入日：同一天两条新闻，共同描绘平台经济的分叉路口",
+      "summary": "5月1日，两条截然不同的平台新闻构成了鲜明对照。Roblox发布Q1财报，营收14亿美元（+39%）、DAU 1.32亿（+35%）、月付费用户3100万（+52%），多项指标创历史新高——但公司随即下调全年预期，原因正是其主动推进的年龄验证和家长控制措施带来的用户增速放缓。平台选择以「安全合规」换取「长期可持续性」，这一战略取舍在资本市场引发争议。与此同时，Epic Games Store正式在日本iPhone上线，成为日本《移动软件竞争法》（MSCA）实施后全球首个规模落地的第三方应用商店案例；然而Apple要求5%核心技术佣金+交易追踪，Epic认为这依然是「反竞争行为」并宣布继续与监管机构合作维权。两条新闻合在一起，呈现出2026年平台经济最核心的结构性张力：安全监管倒逼平台主动收缩 vs. 反垄断立法强迫平台被迫开放。Krafton同日发布Q1创纪录财报（+57%），以纯粹的游戏基本面成为这场平台叙事中最安静、最扎实的赢家。",
+      "tags": ["Roblox", "Epic Games", "Krafton", "PUBG", "日本反垄断", "年龄验证", "平台经济"],
+      "stats": [
+        {"num": "$1.4B", "label": "Roblox Q1营收（同比+39%）"},
+        {"num": "1.32亿", "label": "Roblox DAU（同比+35%）"},
+        {"num": "$931M", "label": "Krafton Q1营收（同比+57%）"}
+      ]
+    },
+    "news": [
+      {
+        "type": "财报",
+        "title": "Roblox Q1财报：营收14亿美元+39%，DAU 1.32亿创新高，年龄验证导致全年预期下调",
+        "body": "Roblox发布2026年Q1财报，多项指标创历史新高：营收14亿美元（同比+39%）、预订额17亿美元（+43%）、DAU 1.32亿（+35%）、月付费用户3100万（+52%）、总参与时长310亿小时（+43%）。但净亏损扩大至2.48亿美元（上年同期2.16亿）。公司随即下调全年预期，预订额全年增速调整至8%-12%、营收增速20%-25%，主要原因是其自去年11月起推行、今年1月全球扩展的强制年龄验证措施带来用户增速放缓。值得关注的是，年龄验证实施后18岁以上用户占验证DAU的26%，美国18-34岁用户DAU和时长同比增长50%，超越所有其他年龄段——成人用户快速增长正是Roblox新战略的核心。公司还宣布6月起将开发者兑换率（DevEx）提高42%，适用于18岁以上年龄验证美国玩家在符合资质游戏中的消费。昨日Roblox还正式推出$5/月的Roblox Plus订阅服务。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "Roblox主动以「合规换增速」的战略取舍标志着UGC平台监管从外部压力转向内部自律，对Roblox竞争对手（Discord、YouTube Games等）构成战略先手压力；DevEx提高42%则是历史性的创作者利益让步",
+        "url": "https://www.gamesindustry.biz/roblox-reports-strong-q1-growth-revises-full-year-forecast-due-to-new-saftey-measures",
+        "image": "https://assetsio.gnwcdn.com/roblox1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "平台政策",
+        "title": "Epic Games Store正式登陆日本iPhone：MSCA反垄断法首个规模落地案例，苹果5%佣金仍被指「反竞争」",
+        "body": "Epic Games Store正式在日本iPhone上线，成为日本《移动软件竞争法》（MSCA）2025年12月生效后首个在日本规模落地的第三方iOS应用商店案例。MSCA要求日本苹果/谷歌开放第三方商店和支付，逻辑与欧盟DMA高度相似。首批上架内容以Epic自家产品为主：Fortnite、Rocket League Sideswipe等。但Epic同时指出，Apple要求开发者支付5%「核心技术佣金」并追踪第三方商店交易，「制造了让开发者望而却步的成本与混乱」，Epic宣布将「继续与监管机构合作，终结反竞争行为」。此举标志着苹果iOS生态强制开放从欧洲延伸至亚洲，对全球应用商店格局具有结构性意义；但Epic的批评表明，MSCA的「开放」远未到Epic理想中的「真正公平竞争」。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "日本iOS第三方商店开放将为全球游戏发行商提供绕过苹果税的新渠道，但5%佣金的存在意味着实际效益低于预期；Epic持续游说监管机构意味着更多法规收紧可能在全球其他市场复制",
+        "url": "https://www.gamesindustry.biz/epic-games-store-launches-on-iphone-in-japan",
+        "image": "https://assetsio.gnwcdn.com/epic-games-app-jp.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "财报",
+        "title": "Krafton Q1创纪录：营收9.31亿美元同比+57%，PUBG移动端付费用户+17%驱动强劲增长",
+        "body": "Krafton发布2026年Q1财报，营收₩1.37万亿韩元（9.31亿美元），同比增长56.9%；营业利润₩5616亿韩元（3.813亿美元）。移动端贡献最大营收份额₩7027亿韩元（4.77亿美元），主要驱动力来自高端内容、IP联动及《PUBG Mobile India》付费用户17%同比增长（得益于服务器升级和内容扩充）。PC端营收₩3639亿韩元（2.471亿美元），由PUBG: Battlegrounds新内容及稳健的直播服务运营支撑。PUBG系列整体实现同比24%营收增长，突破₩1万亿韩元（6.79亿美元）。Krafton重申「AI优先」战略，强调「AI for Game」计划；另据披露，其战略性新作《INZOI》Q1也在拉动收入增量。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "Krafton Q1超预期增长验证了「单一顶级IP（PUBG）+移动端本地化运营」的长线商业模式，对处于IP多元化焦虑中的中韩游戏大厂具有参照意义；《INZOI》的增量信号也是模拟/生活类游戏赛道价值的积极信号",
+        "url": "https://www.gamesindustry.biz/krafton-q1-revenue-up-569-to-931m-driven-by-mobile-content",
+        "image": "https://assetsio.gnwcdn.com/pub-g.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "marketing": [
+      {
+        "type": "技术发布",
+        "title": "Roblox Reality发布：AI视频世界模型把方块游戏变成写实画面，「显著降低高保真图形开发成本」",
+        "body": "[品牌动作] Roblox发布AI驱动的图形升级工具「Roblox Reality」，将AI Video World Models与现有Roblox Cloud及游戏引擎整合，能够在现有方块模型游戏之上生成高保真视觉效果，包括光照、纹理和动态效果的全面升级。演示视频中，人气游戏《Grow A Garden》的方块画面被实时转化为写实级画面效果。官方表示该技术「将显著降低传统高保真图形所需的开发时间、成本和算力」。[社媒反馈] 演示视频在游戏开发者社区引发广泛讨论，部分开发者质疑AI生成画面与原作风格的割裂感，另一些人则认为这将彻底降低UGC游戏的视觉门槛，引发创作者生态的质变。[商业思考] Roblox Reality是Roblox向「成人用户+高保真内容」战略转型的技术支柱之一——在DAU结构中成人占比提升的背景下，视觉品质升级是留住高消费能力用户的必要条件。若大规模落地，将对Unity/UE5等传统引擎在UGC赛道的竞争地位形成压制。",
+        "source": "GamesIndustry.biz",
+        "social_metric": "开发者社区分歧明显：AI画风替换的「割裂感」争议 vs 「UGC视觉革命」乐观预期；Roblox相关话题在X/Twitter游戏开发者圈持续热议",
+        "url": "https://www.gamesindustry.biz/roblox-announces-ai-driven-upscaler-called-roblox-reality",
+        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-05-01-151415.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "events": [
+      {
+        "type": "奖项",
+        "title": "《Clair Obscur: Expedition 33》拿下Gamescom Latam BIG最佳游戏奖：年度最大黑马持续席卷全球颁奖台",
+        "body": "《Clair Obscur: Expedition 33》在巴西圣保罗举办的Gamescom Latam BIG Festival Awards上斩获最佳游戏及最佳音效两项大奖，开发商Sandfall Interactive登台领奖。这是该游戏继GDC、BAFTA等多个颁奖礼后的又一重量级斩获。BIG奖共设16个类别，作为独立游戏奖项，专注于奖励来自全球（尤其是拉丁美洲）的独立精品游戏。《Clair Obscur》的获奖再次验证了其超越地域和类型边界的高度认可——这款融合欧洲超现实美学与日式回合制战斗的小型工作室作品，已成为2026年上半年最重要的GOTY候选。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "《Clair Obscur》的持续获奖证明了「强叙事+美学独特性」路线在独立游戏商业层面的可行性，对正在布局精品单机赛道的中小发行商具有重要的参照价值",
+        "url": "https://www.gamesindustry.biz/clair-obscur-expedition-33-wins-best-game-at-the-big-festival-awards-at-gamescom-latam",
+        "image": "https://assetsio.gnwcdn.com/IMG_6465.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "releases": [],
+    "hotlist": [
+      "Roblox主动为「年龄验证」牺牲增速：这是高尚的自律还是聪明的先手棋？",
+      "Epic登陆日本iPhone：苹果5%佣金还算「开放」吗？反垄断战争远未结束",
+      "Krafton Q1暴增57%：靠一个PUBG打天下，这条路还能走多久？",
+      "Roblox Reality把方块世界变写实：UGC平台的「AI画质革命」是创作者的福音还是噩耗？",
+      "《Clair Obscur》再获大奖：2026年最强GOTY候选，为什么是一个从没人听说过的小工作室？"
+    ]
+  }
+}
