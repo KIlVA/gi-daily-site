@@ -3839,5 +3839,72 @@
       "Roblox Reality把方块世界变写实：UGC平台的「AI画质革命」是创作者的福音还是噩耗？",
       "《Clair Obscur》再获大奖：2026年最强GOTY候选，为什么是一个从没人听说过的小工作室？"
     ]
+  },
+  "2026-05-02": {
+    "date": "2026-05-02",
+    "vol": 20260502,
+    "weekday": "SATURDAY",
+    "ticker": [
+      "Circana Q1调查：独占游戏仍是选择主机首因，但消费者驱动力同比下降8pts，索尼/Xbox策略转型压力显现",
+      "Capcom COO：Pragmata首周百万销量证明原创IP可行，已将其列为可持续扩展的新系列",
+      "5月2日为劳动节假期周末，GI/GameDeveloper等主流媒体休刊，行业进入静默窗口"
+    ],
+    "hero": {
+      "title": "独占游戏的黄金锁链：Circana数据揭示主机市场最脆弱的护城河",
+      "summary": "5月2日，一份来自Circana的Q1消费者调查为游戏行业的主机策略之争提供了最新的数据基础。调查显示，独占游戏依然是消费者选择在主机上游玩的首要原因——但这一动力在过去一年间下降了8个百分点，降幅不容忽视。排在其后的理由包括「朋友家人也在同平台游玩」（38%）、「主机与朋友联机更方便」（37%）和「偏好更休闲的游玩环境」（36%）。这份数据出现的时间节点极为微妙：索尼正被曝光正在收缩其单机游戏的PC同步发行策略，而微软的Xbox新领导层也在重新评估此前将第一方游戏引入PS5的做法——两大平台方都在某种程度上松动了「独占护城河」，而Circana的数据正在告诉他们，这堵墙的砖块已开始松动。与此同时，Capcom COO在iicon大会上的发言提供了一个更乐观的镜像：原创新IP Pragmata首周突破百万销量，验证了「用西方反馈驱动日本开发团队」的跨文化协作模式的商业可行性，Capcom明确将其列为可持续扩展的新IP系列。",
+      "tags": [
+        "Circana",
+        "主机独占",
+        "Capcom",
+        "Pragmata",
+        "索尼",
+        "Xbox",
+        "主机策略"
+      ],
+      "stats": [
+        {
+          "num": "-8pts",
+          "label": "主机独占作为购买驱动力同比降幅（Circana Q1 2026）"
+        },
+        {
+          "num": "100万+",
+          "label": "Pragmata首周销量"
+        },
+        {
+          "num": "#1",
+          "label": "独占游戏在主机选择理由中的排名（连续多年）"
+        }
+      ]
+    },
+    "news": [
+      {
+        "type": "行业调查",
+        "title": "Circana Q1报告：独占游戏仍是选主机首因，但消费者驱动力同比骤降8pts",
+        "body": "Circana发布Q1 2026「游戏未来」消费者调查报告，揭示了主机市场的核心驱动力变化。核心发现：独占游戏依然是消费者选择特定主机游玩的第一理由，但相比去年同期，这一动力下降了8个百分点——这是近年来最大的单年降幅。其余理由依次为：朋友家人也在同平台游玩（38%）、主机与朋友联机更方便（37%）、偏好更休闲的游玩环境（36%）。该调查由The Game Business在iicon大会上引用披露，并被用于分析索尼、微软当前「独占策略松动」的语境。报告指出，两大平台方近年来的多平台化尝试受到了复杂结果：索尼部分单机游戏的PC版推迟发行反而拖累了整体销售，微软将第一方游戏引入PS5后销量改善有限。Circana的数据意味着：「独占护城河」仍有效，但正在加速侵蚀——平台方现在面临的选择是，是否要在护城河完全消失之前主动用内容质量替代「排他性」来维系用户忠诚。",
+        "source": "VGC / Circana",
+        "business_impact": "独占游戏驱动力-8pts是一个重要的结构性信号，直指主机生态最核心的竞争壁垒正在软化；对于正在制定2026-2027硬件/内容策略的索尼、微软而言，是重新强化独占阵容还是继续多平台扩展，这份数据是最直接的反驳证据",
+        "url": "https://www.videogameschronicle.com/news/exclusive-games-are-still-the-top-reason-for-playing-on-console-survey-suggests/",
+        "image": "https://assetsio.gnwcdn.com/kamil-switalski-SuPAbuuK7f4-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "产品策略",
+        "title": "Capcom COO：Pragmata首周破百万，「我们已经有了另一个IP」——暗示系列续作",
+        "body": "Capcom USA首席运营官Rob Dyer在iicon大会面板发言中透露，上月发售的科幻动作游戏《Pragmata》首周销量突破百万，并罕见地暗示这款原创IP将延续为系列作品。「我们现在已经拥有了另一个IP——Capcom的IP储备丰厚，我们可以沿着这条路继续走下去。」Dyer特别强调，Pragmata的成功来自Capcom日本开发团队对西方市场反馈的系统性采纳：提前进行重点测试、开放Demo体验、在西方市场开展大规模调研，「他们吸收了反馈」——六年开发周期后，「这份努力是值得的」。此外，Capcom还特别指出，提前发布Demo和发售日同步登陆Nintendo Switch 2这两项举措在市场层面产生了显著的先导效应。《Pragmata》是Capcom继《生化危机》《怪物猎人》之后少有的全新原创IP大作，其首周百万成绩对行业具有积极的「原创IP可行性」示范意义。",
+        "source": "VGC / Capcom iicon",
+        "business_impact": "Pragmata的百万首周验证了「日本大厂+西方测试驱动开发」模式的可行性；Capcom明确将其列为可持续IP系列，对其他正在考虑原创IP的日本大厂（如Square Enix、Bandai Namco）具有重要参照价值",
+        "url": "https://www.videogameschronicle.com/news/weve-got-another-ip-capcom-hints-pragmata-could-see-more-games/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/341da3fa5338fad44ae87b2d14edfe6be80ff4c3/capsule_616x353.jpg?t=1777351016"
+      }
+    ],
+    "marketing": [],
+    "events": [],
+    "releases": [],
+    "hotlist": [
+      "独占游戏驱动力-8pts：主机护城河真的在崩塌吗？索尼和微软该怎么办？",
+      "Pragmata百万首周：Capcom是怎么让日本团队「听进去」西方玩家意见的？",
+      "如果独占游戏不再是买主机的理由，那什么才是？主机生态的下一个支柱在哪里？",
+      "Capcom又多了一个可持续IP系列：日本大厂的原创IP困局是否正在解冻？",
+      "「日本开发+西方反馈」模式能复制吗？从Pragmata到《黑神话》，东西方协作的边界在哪里？"
+    ]
   }
 }
