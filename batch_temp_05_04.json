@@ -1,0 +1,71 @@
+{
+  "2026-05-04": {
+    "date": "2026-05-04",
+    "vol": 20260504,
+    "weekday": "MONDAY",
+    "ticker": [
+      "RE Requiem 制作人：DLSS 5 引发的愤怒「证明我们把 Grace 的设计做对了」——AI 渲染艺术方向权之争浮上台面",
+      "Steam 封锁独立开发者自己的 IP：Daikichi 被要求证明拥有自己创作的桌游版权，「连律师费都付不起」",
+      "Fallout 联创 Tim Cain：KOL 时代游戏设计正在为「切片传播」服务，玩家被影响者代替思考",
+      "Dragon Quest 9 前联合总监：堀井雄二告诉我，游戏设计的本质是「体验」而非「剧情」"
+    ],
+    "hero": {
+      "title": "谁拥有游戏的灵魂：DLSS 5 的艺术控制权之争，与 Steam 的 IP 困局",
+      "summary": "5月4日，假期结束后的第一个工作日，游戏行业带着几个彼此呼应的深层问题重新开机。Capcom RE Requiem 制作人 Masato Kumzawa 面对 Nvidia DLSS 5 将女主角 Grace 「美颜化」所引发的强烈反弹，给出了一个耐人寻味的回应：玩家的愤怒恰恰证明开发团队「把设计做对了」。这句话背后是一场正在升温的争议——当 AI 渲染技术在 GPU 层面改写游戏美术时，开发者对自己作品最终呈现效果的控制权究竟在哪里？与此同时，一个截然相反的平台权力困境在 Steam 上演：日本独立开发者 Daikichi 因被 Steam 判定「侵犯第三方 IP」而遭到封锁——那个「第三方 IP」其实是他们自己三年前发布的桌游。两个故事，一个关于「大公司技术能否凌驾于开发者意志」，一个关于「平台规则能否在无力者面前自我纠错」，共同描绘出 2026 年游戏行业权力结构的真实肌理。",
+      "tags": ["DLSS 5", "Nvidia", "RE Requiem", "Capcom", "Steam", "独立游戏", "AI渲染", "平台权力"],
+      "stats": [
+        {"num": "DLSS 5", "label": "Nvidia AI 神经渲染技术，3月发布即遭行业广泛批评"},
+        {"num": "0", "label": "Daikichi 能负担的律师意见函数量——Steam 要求提供法律证明"},
+        {"num": "20年", "label": "DQ9 联合总监藤泽仁在 Square Enix 工作并贯彻堀井哲学的年限"}
+      ]
+    },
+    "news": [
+      {
+        "type": "技术争议",
+        "title": "RE Requiem 制作人：DLSS 5 引发的愤怒「证明我们把 Grace 的设计做对了」",
+        "body": "Capcom 制作人 Masato Kumzawa 在接受 Eurogamer 采访时，正面回应了今年 3 月 Nvidia 发布 DLSS 5 演示后引发的强烈批评。DLSS 5 是 Nvidia 面向 RTX GPU 推出的 AI 神经渲染技术，可在显卡层面自动重构游戏的光照与材质，宣称达到「照片级真实感」。然而其 RE Requiem 演示版本将女主角 Grace 渲染得过于「精致光滑」，被大量玩家和开发者批评为「破坏原始美术风格」。Kumzawa 对此表示：「玩家对 Grace 原始设计如此强烈的捍卫欲，恰恰说明我们把设计做对了——她已经成为粉丝最喜爱的角色。」Nvidia CEO 黄仁勋此前辩称 DLSS 5 的每个效果都在开发者的「直接控制」之下，但 Respawn 渲染工程师 Steve Karolewics 等多位开发者随即在社交媒体公开反驳，称其更像「过度的对比度+磨皮滤镜」。这场争论的核心已不止于视觉效果：AI 渲染技术是否应该在 GPU 层面自动覆盖开发团队精心设定的美术意图，成为行业层面尚待解决的标准化议题。",
+        "source": "VGC / Eurogamer",
+        "business_impact": "DLSS 5 争议直接触碰了「GPU 厂商技术权力边界」这一敏感议题；Nvidia 若不与开发者建立更清晰的艺术控制权协议，AI 渲染功能可能从卖点变成公关负担；对 Capcom 而言，Kumzawa 的回应是一次将危机转化为品牌资产（Grace 角色认可度）的成功公关操作",
+        "url": "https://www.videogameschronicle.com/news/resident-evil-requiem-producer-says-dlss-5-anger-shows-we-got-graces-original-design-right/",
+        "image": "https://www.videogameschronicle.com/files/2026/05/Screenshot-2026-05-04-113444.jpg"
+      },
+      {
+        "type": "平台政策",
+        "title": "Steam 以「侵犯第三方 IP」封锁日本独立开发者的新游——那个「第三方 IP」是他自己的作品",
+        "body": "日本独立开发者 Daikichi 正在开发 3D 竖向动作游戏《Wired Tokyo 2007》，计划在 Steam 发布试玩 Demo。然而 Steam 审核系统以「侵犯第三方知识产权」为由将 Demo 拦截，具体指控是游戏场景中出现的「恐龙主题卡牌游戏」涉嫌侵权。问题是：那款卡牌游戏 Dinostone 正是 Daikichi 本人于 2023 年发布的作品，出现在《Wired Tokyo 2007》中只是对自己旧作的一次致敬性彩蛋。Steam 要求 Daikichi 提供「合理保证」，包括「律师就知识产权问题撰写的法律意见函，解释为何无需授权」——否则将拒绝发布。Daikichi 表示陷入双重困境：Dinostone 以笔名而非真实姓名发布，无法找到官方文件证明自己是作者；同时作为小型独立开发者，根本负担不起法律咨询费用。「我在哪里能找到一份官方文件，证明我拥有一个以笔名在网上发布的桌游的版权？」这一案例再次暴露 Steam 自动 IP 审核系统对小型开发者的结构性伤害——规则的成本由最无力承担的人承受。",
+        "source": "VGC / Game Spark",
+        "business_impact": "Steam 在全球 PC 游戏发行市场的垄断地位使其 IP 审核决策对独立开发者具有近乎终局性的影响；此案凸显了平台自动化审核系统在边缘案例中的系统性失灵——当证明成本本身成为门槛，平台申诉机制实质上已对小开发者关闭；呼应 Epic Games、itch.io 等替代平台的长期叙事",
+        "url": "https://www.videogameschronicle.com/news/indie-dev-says-steams-blocking-their-game-for-ip-infringement-even-though-its-their-own-ip/",
+        "image": "https://www.videogameschronicle.com/files/2026/05/wired-tokyo.jpg"
+      },
+      {
+        "type": "行业观察",
+        "title": "Fallout 联创 Tim Cain：部分玩家被 KOL 代替思考，游戏设计已开始为「切片传播」服务",
+        "body": "Fallout 联合创作者、《天外世界》联合开发者 Tim Cain 在个人 YouTube 频道回应了一位订阅者关于「社交媒体如何改变游戏设计」的提问，给出了一段颇具争议性的行业观察。Cain 表示，他自己在设计游戏时也开始主动思考「某个场景上传到直播或 YouTube 时会有多好看」——因为精彩的视觉片段更容易被切片传播，进而驱动游戏销量。「我们以前进行媒体采访时会提前准备「金句」，现在我们思考的是游戏的哪些部分适合被 KOL 截片。」他同时表达了对这一趋势的担忧：部分玩家正在被 KOL 告知「应该怎么想」，而非自行形成判断。「我担心未来话语权将越来越集中——少数声音的影响力将远超他们理应拥有的比例。」这番发言触及了游戏行业一个被广泛讨论但鲜少被资深开发者公开直言的结构性问题：当发行成功日益依赖 KOL 生态，游戏设计本身正在被「可传播性」重塑。",
+        "source": "VGC / Tim Cain YouTube",
+        "business_impact": "Cain 的发言是资深开发者罕见地公开承认「为 KOL 设计」对行业创作逻辑的渗透；对营销方而言，这进一步印证了「可直播性」已成为 AAA 产品开发决策的隐性指标；KOL 营销预算集中化趋势若持续，将加剧中型游戏的曝光劣势",
+        "url": "https://www.videogameschronicle.com/news/fallouts-co-creator-says-some-players-are-told-by-influencers-what-to-think-rather-than-forming-their-own-opinions/",
+        "image": "https://www.videogameschronicle.com/files/2024/02/fallout.jpg"
+      },
+      {
+        "type": "开发者洞见",
+        "title": "DQ9 联合总监：堀井雄二告诉我，游戏设计的本质不是让玩家哭，而是让玩家「意想不到」",
+        "body": "Dragon Quest 9 与 10 的前联合总监藤泽仁在接受日本杂志《The Change》专访时（由 Automaton 翻译报道）回顾了他在 Square Enix 工作 20 年间从堀井雄二处学到的核心设计哲学。藤泽坦言，他最初坚信「剧情是 RPG 最重要的部分」，但堀井雄二不断纠正他：「不是剧情，是体验。你要先想清楚希望玩家经历什么样的旅程。」藤泽以 Dragon Quest 5 为例：游戏要求玩家选择结婚对象，这一决策不仅改变故事走向，还影响战斗中伴侣的技能组合。「正因为这个事件的核心是真诚选择婚姻对象的强烈体验，每个玩家才能演绎出属于自己的独特故事。」藤泽表示，堀井雄二追求的是「前所未见、颠覆预期」——让玩家不由自主地想：「等等，这也可以？」这一设计哲学的公开是对当下 RPG 行业「剧情叙事内卷化」趋势的一种隐性反思：当越来越多的 RPG 将主要精力投入电影级过场动画时，「可互动的惊喜体验」这一底层价值是否正在被忽视？",
+        "source": "VGC / Automaton / The Change",
+        "business_impact": "堀井雄二「体验优先于剧情」的设计哲学，是对当前 RPG 行业过度投资剧情过场（电影化叙事）趋势的一个重要反驳坐标；对于正在评估下一代 RPG 投资方向的发行商而言，「可互动惊喜」vs「被动观看叙事」的路线之争，将是未来数年产品差异化的核心议题",
+        "url": "https://www.videogameschronicle.com/news/its-not-about-the-storyline-dragon-quest-9-director-says-the-hardest-thing-isnt-to-make-players-cry-but-surprised/",
+        "image": "https://www.videogameschronicle.com/files/2026/05/i_23723.jpg"
+      }
+    ],
+    "marketing": [],
+    "events": [],
+    "releases": [],
+    "hotlist": [
+      "DLSS 5 的本质问题：AI 能否在不经开发者明确同意的情况下「改写」一款游戏的美术风格？",
+      "Steam 封锁自己 IP 的独立开发者：平台「自证清白」机制的成本，正在由最弱势的人承担",
+      "Tim Cain 说出了行业的秘密：你最喜欢的游戏，有多少设计决策是为了「方便 KOL 截片」做出的？",
+      "堀井雄二的设计哲学：在「电影化 RPG」大行其道的 2026 年，「可互动的惊喜」是不是正在消失？",
+      "DLSS 5 与 RE Requiem：Nvidia 和 Capcom 之间，到底谁对玩家看到的那张脸负责？"
+    ]
+  }
+}
