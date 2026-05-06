@@ -1,0 +1,52 @@
+{
+  "2026-05-03": {
+    "date": "2026-05-03",
+    "vol": 20260503,
+    "weekday": "SUNDAY",
+    "ticker": [
+      "Bungie：Marathon 累计销量逾 200 万份，已规划多年叙事框架，玩家输入将影响故事走向",
+      "Halo Studios 正在「积极开发」Halo 2 与 Halo 3 重制版，全三部曲 UE5 重制计划浮现",
+      "5月3日为劳动节假期周日，GI/GameDeveloper 休刊，行业静默窗口延续"
+    ],
+    "hero": {
+      "title": "Xbox IP 的下一个十年：Marathon 站稳脚跟，Halo 三部曲重制悄然启动",
+      "summary": "5月3日，两条关于 Microsoft 旗下重量级 IP 的消息，共同描绘出 Xbox 游戏部门在 2026 年的战略走向。其一：Bungie 正式披露 Marathon 已积累超过 200 万销量，创意总监 Julia Nardin 宣称开发团队已规划好「延伸数年」的叙事框架，并承诺保持较小批次的高频更新节奏——这与 Destiny 时代的大型版本更新策略形成鲜明对比，Bungie 显然在用 Marathon 实验一套新的直播服务运营哲学。其二：来自消息人士的爆料称 Halo Studios 正在「积极开发」Halo 2 与 Halo 3 的 UE5 重制版，今年即将发售的《Halo: Campaign Evolved》（初代重制）只是三部曲计划的序章，初代重制版甚至将包含来自后续两部作品的内容彩蛋。两条消息叠加，Xbox 的内容战略路线图愈发清晰：靠 Marathon 建立全新的直播服务 IP 底盘，靠 Halo 三部曲重制唤回核心玩家群体的历史情感。这是一套「进攻+防守」并行的内容策略，也是 Xbox 在主机市场存在感持续受压背景下，用 IP 价值对冲硬件焦虑的最直接答案。",
+      "tags": ["Bungie", "Marathon", "Halo", "Xbox", "Microsoft", "UE5重制", "直播服务"],
+      "stats": [
+        {"num": "200万+", "label": "Marathon 累计销量（3月发售至今）"},
+        {"num": "3部曲", "label": "Halo Studios UE5 重制计划规模"},
+        {"num": "多年", "label": "Bungie 已规划的 Marathon 叙事框架跨度"}
+      ]
+    },
+    "news": [
+      {
+        "type": "直播服务",
+        "title": "Bungie：Marathon 累计销量超 200 万，已规划多年叙事框架，玩家将「共同塑造」故事走向",
+        "body": "Bungie 创意总监 Julia Nardin 在接受 GamesRadar 专访时披露，今年 3 月发售的撤离射击游戏 Marathon 开售首周销量约 120 万份，目前累计销量已突破 200 万。Nardin 表示，开发团队已规划好「延伸数年」的叙事框架——「我们知道未来几年想把故事带往何处，但我不想说它完全「锁定」，因为让玩家参与塑造叙事是直播服务游戏魔力的一部分。」在具体运营节奏上，Bungie 明确转向高频小批次更新策略，有别于 Destiny 时代的不频繁大型扩展，旨在让玩家持续感受到世界在演进。同时，Nardin 强调新玩家随时可以加入，不会因历史内容缺失而造成困惑——这正是 Destiny 长期被诟病的核心问题。Marathon 的叙事核心围绕 Tau Ceti 星球的谜团，这一背景故事「已经锁定」，后续每个赛季都将提供新的线索和体验。",
+        "source": "VGC / GamesRadar",
+        "business_impact": "Marathon 200 万销量证明 Bungie 在索尼收购后的首个全新 IP 站稳了市场；「高频小更新」策略若成功，将为疲态已显的直播服务行业提供一套新的运营范本；但「玩家共塑叙事」承诺的兑现程度，将是社区长期留存的核心观察指标",
+        "url": "https://www.videogameschronicle.com/news/bungie-claims-it-has-a-marathon-story-plan-stretching-years-into-the-future/",
+        "image": "https://www.videogameschronicle.com/files/2026/03/2026_Marathon_Server_Slam_PressKit_Compressed_03.jpg"
+      },
+      {
+        "type": "重制/复刻",
+        "title": "Halo Studios 正在「积极开发」Halo 2 与 Halo 3 UE5 重制版：全三部曲计划浮现，初代将含后续彩蛋",
+        "body": "据消息人士向 Rebs Gaming 透露并提供佐证，Halo Studios 已在「积极开发」Halo 2 与 Halo 3 的 UE5 重制版，目前处于早期开发阶段——与今年即将发售的《Halo: Campaign Evolved》（初代完整战役重制）共同构成全三部曲重制计划。消息称，《Halo: Campaign Evolved》本身将包含来自 Halo 2 和 Halo 3 的内容彩蛋，例如初代中将出现「野兽人」（Brutes）角色作为向后续作品的致敬，甚至可能通过头骨修改器让 Brutes 出现在原版关卡中。目前确认的信息包括：Halo Studios 同时在开发新的多人游戏项目以及下一款全新 Halo 正统续作。《Halo: Campaign Evolved》已确认将于 2026 年内在 Xbox Series X/S、PS5 和 PC 三平台发售，具体日期尚未公布。Microsoft 此前于 2024 年 10 月宣布多款 Halo 游戏正在 UE5 引擎下并行开发。",
+        "source": "VGC / Rebs Gaming",
+        "business_impact": "Halo 三部曲重制计划是 Microsoft 「IP 历史资产变现」战略的最直接体现；跨越 PS5 发行的策略延续了 Xbox 多平台化路线，但如何在重制品质与全新作品开发之间分配 Halo Studios 的资源，将是外界关注的核心问题",
+        "url": "https://www.videogameschronicle.com/news/halo-studios-is-actively-developing-remakes-of-halo-2-and-halo-3-its-claimed/",
+        "image": "https://www.videogameschronicle.com/files/2024/11/Halo-Infinite-Operation-Great-Journey-b.jpg"
+      }
+    ],
+    "marketing": [],
+    "events": [],
+    "releases": [],
+    "hotlist": [
+      "Marathon 200 万销量：Bungie 的「高频小更新」策略能否重新定义直播服务运营范式？",
+      "Halo 三部曲全部重制：Xbox 是在「吃老本」还是在「打地基」？",
+      "「玩家共塑叙事」和「故事已经规划好」是两件矛盾的事吗？Bungie 的表述耐人寻味",
+      "Halo 2 和 3 重制与新主线 Halo 并行开发：Halo Studios 的人员规模够用吗？",
+      "Marathon + Halo 三部曲：2026 年下半年 Xbox 内容阵容的轮廓正在成形"
+    ]
+  }
+}
