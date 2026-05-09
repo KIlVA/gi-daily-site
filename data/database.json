@@ -4315,5 +4315,92 @@
       "Unity AI 工具集终于落地：没有一键生成游戏，只有敲代码助手",
       "Hooded Horse 操盘 1 亿美金：不收编工作室，只收流水分成的新发行模式"
     ]
+  },
+  "2026-05-08": {
+    "date": "2026-05-08",
+    "vol": 20260508,
+    "weekday": "FRIDAY",
+    "ticker": [
+      "任天堂上调 Switch 2 售价（美国涨至 500 美元），多国原版硬件同步涨价",
+      "任天堂受 Switch 2 推动全财年销售额暴涨 98.6% 至 146 亿美元",
+      "索尼 PS5 累计销量 9370 万台，Bungie 造成 7.65 亿美元减值损失",
+      "缔造《马里奥》与《塞尔达》的任天堂传奇制作人手塚卓志宣布退休",
+      "Unity Q1 营收增长 17%，受剥离 IronSource 影响录得 3.47 亿美元亏损"
+    ],
+    "hero": {
+      "title": "任天堂的定价狂欢与索尼的减值阵痛：主机御三家冰火两重天",
+      "summary": "5月8日，主机御三家中的两家交出了截然不同的答卷。得益于 Switch 2 的成功发售，任天堂全财年销售额暴涨 98.6% 达到惊人的 146 亿美元；而在取得压倒性优势后，任天堂顺势宣布在全球范围全面上调 Switch 2 售价（美国涨至 500 美元），连同老款机型与 NSO 会员也迎来价格调整，展现出绝对的定价权。同日，任天堂一代传奇、参与缔造《马里奥》与《塞尔达》的灵魂人物手塚卓志宣布退休，宣告着一个时代的落幕。另一边，索尼在财报中确认 PS5 累计销量达到 9370 万台，但步伐已落后于同期的 PS4；更刺眼的是，收购 Bungie 带来了高达 7.65 亿美元的巨额减值损失。当索尼 CEO 明确表示「AI 将释放第一方工作室创造力」并在探讨 PS6 商业模式转型时，大厂对研发成本失控的焦虑已溢于言表。与此同时，引擎巨头 Unity Q1 营收上涨但亏损 3.47 亿美元。主机战场的冰与火，在这个财报日被彻底放大。",
+      "tags": [
+        "任天堂",
+        "Switch 2",
+        "手塚卓志",
+        "索尼",
+        "PS5",
+        "Bungie",
+        "Unity",
+        "财报"
+      ],
+      "stats": [
+        {
+          "num": "98.6%",
+          "label": "任天堂全财年销售额增幅"
+        },
+        {
+          "num": "$765M",
+          "label": "索尼因 Bungie 记录的减值损失"
+        },
+        {
+          "num": "$500",
+          "label": "Switch 2 在美国调整后的新售价"
+        }
+      ]
+    },
+    "news": [
+      {
+        "type": "人事变动",
+        "title": "任天堂传奇制作人手塚卓志宣布退休：马里奥与塞尔达的奠基者落幕",
+        "body": "继宫本茂逐渐退居幕后之后，任天堂又一位灵魂人物——手塚卓志（Takashi Tezuka）正式宣布退休。作为《超级马里奥兄弟》和《塞尔达传说》的联合创作者，手塚在任天堂工作了近四十年，深刻塑造了整个行业对「关卡设计」的理解。他的退休不仅是任天堂内部代际交替的重要标志，也宣告了开创现代电子游戏基本法则的黄金一代正在彻底将接力棒交还给新一代开发者。",
+        "source": "VideoGamesChronicle",
+        "business_impact": "尽管任天堂已建立起高度成熟的工业化管线，但黄金一代核心制作人的集体离场，仍将对任天堂未来的内容哲学与研发定力提出长期考验",
+        "url": "https://www.videogameschronicle.com/news/nintendos-takashi-tezuka-director-of-classic-mario-and-zelda-games-is-retiring/",
+        "image": "https://www.videogameschronicle.com/files/2025/10/miyamoto-tezuka-kondo-gigapixel-standard-scale-2_00x.jpg"
+      },
+      {
+        "type": "硬件·财报",
+        "title": "任天堂销售额暴涨 98.6% 并全面上调 Switch 2 售价，美国涨至 $500",
+        "body": "据 GamesIndustry.biz 报道，受 Switch 2 首发强劲推动，任天堂全财年销售额激增 98.6% 达 146 亿美元。手握绝对市场优势，任天堂同日宣布调整日本、北美及欧洲市场硬件与服务定价：Switch 2 在美售价上调至 500 美元，日本本土的初版 Switch 及 NSO 会员价格也迎来涨价。财报指出，此次价格调整已计入 2027 财年预估，以应对可能的硬件销量下滑。在主机世代交替的脆弱期敢于逆势涨价，充分展现了任天堂对新一代硬件与软件护城河的绝对自信。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "在成本通胀的今天，任天堂打破了「主机随着生命周期降价」的传统商业规律，其强悍的定价权将进一步挤压竞品生存空间",
+        "url": "https://www.gamesindustry.biz/nintendo-fy-sales-soar-986-to-146bn-following-launch-of-switch-2",
+        "image": "https://assetsio.gnwcdn.com/NintendoSwitch2_PokemonPokopia_Cheer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "战略·财报",
+        "title": "索尼 PS5 销量达 9370 万台，Bungie 造成 7.65 亿美元减值损失",
+        "body": "索尼最新财报显示，PS5 全球累计销量达 9370 万台，但销售曲线已明显落后于同期的 PS4。财报中最引人瞩目的是与收购 Bungie 相关的 7.65 亿美元巨额减值损失，凸显了这笔 36 亿美元收购案的沉重代价。与此同时，SIE 总裁 Hideaki Nishino 在谈及未来规划时强调了人工智能的战略地位：「我们相信 AI 将释放工作室的创造力」。至于下一代主机 PS6，索尼表示发售日和价格尚未决定，且「将考虑改变商业模式」，暗示在硬件亏本销售的传统路线上可能寻求变局。",
+        "source": "VideoGamesChronicle",
+        "business_impact": "Bungie 的减值损失是对索尼盲目扩张 Live-Service 战略的最后结算；引入 AI 与改变硬件商业模式，预示着索尼第一方业务即将迎来结构性收缩与转型",
+        "url": "https://www.videogameschronicle.com/news/sony-says-it-hasnt-yet-decided-on-ps6-release-date-and-price-will-consider-changing-business-models/",
+        "image": "https://www.videogameschronicle.com/files/2024/09/playstation-30th-annivesary-pre-orders.jpg"
+      },
+      {
+        "type": "引擎·财报",
+        "title": "Unity Q1 营收增长 17%，关停 IronSource 导致 3.47 亿美元亏损",
+        "body": "引擎巨头 Unity 发布 2026 财年第一季度财报，营收同比增长 17%。然而，因彻底关闭 IronSource 相关业务产生的重组费用，公司该季度录得高达 3.47 亿美元的净亏损。CEO 在财报会议中表示：「在执行 Unity 历史上最激动人心的产品路线图的同时，我们正在实现出色的收入增长与利润率扩张。」在刚刚推出原生 AI 工具集 Beta 版后，Unity 正试图通过切割边缘业务，重新聚焦于游戏引擎核心技术与开发者生态的恢复。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "壮士断腕式的资产减值标志着 Unity 此前激进的「广告技术公司化」战略彻底终结，公司正加速回归纯粹的 3D 生产力工具定位",
+        "url": "https://www.gamesindustry.biz/unity-q1-revenue-rises-17-posts-347m-loss-following-ironsource-closure",
+        "image": "https://assetsio.gnwcdn.com/unity-logo_teCooZK_AtEMOs9.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "marketing": [],
+    "events": [],
+    "releases": [],
+    "hotlist": [
+      "任天堂 Switch 2 暴涨至 $500：凭什么它敢逆势涨价？",
+      "手塚卓志退休：感谢你为我们构建了马里奥的关卡与童年",
+      "索尼承认 Bungie 亏损 7.65 亿，当初的 36 亿并购案终成苦果",
+      "Unity 甩掉 IronSource 包袱，重回纯粹的引擎战场"
+    ]
   }
 }
