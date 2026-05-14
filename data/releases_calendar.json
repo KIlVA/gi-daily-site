@@ -535,6 +535,16 @@
     "source": "Gematsu / OtherSide Entertainment"
   },
   {
+    "title": "《战锤40000：机械神教II》(Warhammer 40,000: Mechanicus II)",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series"
+    ],
+    "date": "2026-05-21",
+    "source": "Gematsu"
+  },
+  {
     "title": "《River City Saga: Journey to the West》",
     "platforms": [
       "PS5",
@@ -542,6 +552,28 @@
       "PC"
     ],
     "date": "2026-06-04",
+    "source": "Gematsu"
+  },
+  {
+    "title": "《STEINS;GATE RE:BOOT》",
+    "platforms": [
+      "PS5",
+      "Xbox Series",
+      "Switch 2",
+      "PS4",
+      "Switch",
+      "PC"
+    ],
+    "date": "2026-08-20",
+    "source": "Gematsu"
+  },
+  {
+    "title": "《塔罗斯法则III》(The Talos Principle III)",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "date": "2027-TBD",
     "source": "Gematsu"
   },
   {
