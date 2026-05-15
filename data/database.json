@@ -4735,147 +4735,114 @@
   "2026-05-13": {
     "date": "2026-05-13",
     "vol": 20260513,
-    "weekday": "WEDNESDAY",
+    "weekday": "TUESDAY",
     "ticker": [
-      "Capcom连续第九年盈利，《生化危机：安魂曲》拉动净销售额同比+15.2%至12亿美元",
-      "前网易高管朱炎成立GreaterThan Group融资$1亿，首发《星球大战：旧共和国命运》",
-      "MercurySteam与Night Street Games同日启动裁员，欧洲中小工作室寒冬延续",
-      "任天堂宣布《塞尔达传说》真人电影提前至2027年4月30日上映"
+      "Capcom第九年连续盈利，《生化危机Requiem》推动全年销量创纪录5907万份",
+      "前网易高管朱骁融资$1亿创立GreaterThan Group，旗下签入《星球大战》《使命召唤》老将",
+      "MercurySteam（《火焰之刃》）正式启动裁员，《INDIKA》开发商融资$500万保持独立",
+      "华纳兄弟Q1游戏收入暴跌30%，财报信对游戏业务只字不提"
     ],
     "hero": {
-      "title": "Capcom九连盈，GreaterThan $1亿豪赌《星战》新IP——同日两家中小工作室宣告裁员",
-      "summary": "5月13日，游戏行业同时上演了两幕截然不同的剧情。一边是Capcom发布FY2026年报，净销售额+15.2%至12亿美元，连续第九年盈利，《生化危机：安魂曲》持续拉动数字内容段爆发；另一边是前网易全球发行负责人Simon Zhu（朱炎）宣布成立GreaterThan Group，以$1亿融资集结CoD与游戏王IP老将，首枚子弹直指《星球大战：旧共和国命运》——一款定位AAA级多平台RPG的全新IP。与此同时，西班牙《恶魔猎人》系列开发商MercurySteam与加拿大Night Street Games几乎同时宣告裁员，前者旗舰新作未公布，后者《Last Flag》商业失败直接触发岗位削减。任天堂则在涨价风波余波中主动投出情感炸弹：《塞尔达传说》真人电影上映日提前一周至4月30日。",
+      "title": "Capcom第九年连续盈利封神，与此同时华纳游戏收入崩跌30%且财报隐而不报",
+      "summary": "5月13日是2026财报周的最后一个密集披露日，最强对比来自两个极端：Capcom发布FY2026年报，实现有史以来第九个连续利润增长财年，数字内容销售额+15.3%至$9.14亿，全年游戏销量5907万份创公司历史纪录——驱动力是2月底发售的《生化危机：Requiem》及生化系列强健的目录复购。而华纳兄弟探索在Q1财报中对游戏业务再次「选择性失明」：游戏收入同比暴跌30%，内容支出削减43%，但致股东信中对游戏只字不提，取而代之的是对HBO Max和影视业务的重点强调。同日，前网易高管朱骁宣布创立GreaterThan Group，撬动$1亿资金投向三家工作室：由《KOTOR》《质量效应》导演Casey Hudson领衔的Arcanaut Studios（在研《星球大战：旧共和国的命运》）、由《使命召唤》总监David Vonderhaar主导的BulletFarm，以及东京MAGship。",
       "tags": [
         "Capcom财报",
+        "生化危机Requiem",
+        "华纳兄弟游戏",
         "GreaterThan Group",
-        "星球大战",
-        "MercurySteam裁员",
-        "塞尔达电影"
+        "MercurySteam裁员"
       ],
       "stats": [
         {
-          "num": "+15.2%",
-          "label": "Capcom FY26净销售额同比增幅"
+          "num": "第9年",
+          "label": "Capcom连续利润增长年份"
+        },
+        {
+          "num": "5907万",
+          "label": "Capcom FY2026全年游戏销量（历史纪录）"
         },
         {
           "num": "$1亿",
-          "label": "GreaterThan Group首轮融资"
-        },
-        {
-          "num": "2",
-          "label": "今日裁员工作室数量"
+          "label": "GreaterThan Group融资总额"
         }
       ]
     },
     "news": [
       {
-        "type": "裁员寒冬",
-        "title": "MercurySteam与Night Street Games同日启动裁员——欧洲中小工作室双线告急",
-        "body": "西班牙工作室MercurySteam（《银河战士》系列开发商）宣布启动「劳动力调整程序」，声明称「这是一个艰难而痛苦的情况」，未披露具体裁员人数或项目背景。同日，加拿大Night Street Games公开承认其平台解谜游戏《Last Flag》「未能达到预期商业成功」，部分团队成员受到波及。两家工作室的同时爆雷共同指向一个结构性现实：中等规模工作室在当前市场中面临的「夹心层困境」——既无法依靠平台首方补贴保底，又缺乏头部发行商的市场覆盖资源。MercurySteam在完成《银河战士》系列重启后尚未公布后续项目，可能正处于青黄不接的开发间隙。",
+        "type": "财报丰收",
+        "title": "Capcom第九年连续盈利：《生化危机Requiem》推动全年销量5907万创历史纪录",
+        "body": "Capcom发布FY2026年报，实现第九个连续利润增长财年。全年净销售额+15.2%至¥1893亿（约$12亿），数字内容部门销售额+15.3%至¥1442亿（$9.14亿），营业利润+8.4%至¥706亿（$4.47亿）。全年游戏销量达5907万份，同比增加710万份，创公司历史新高。核心驱动是2026年2月27日发售的《生化危机：Requiem》——首月销量已超过《生化危机4》重制版同期，生化系列目录复购持续贡献稳健长尾收入。FY2027展望：Capcom预期净销售额继续增长，旗下大作管线保密但市场普遍预期将有新《怪物猎人》或《街头霸王》续作公布。Capcom模式——IP驱动、成本控制、PC/主机双线布局——正在成为日本AAA厂商对抗行业逆风的最优参照系。",
         "source": "GamesIndustry.biz",
-        "business_impact": "两起同日裁员事件再次印证中型工作室的高风险处境，预计将加速行业整合，更多工作室可能寻求被收购或接受平台首方内容委托",
-        "url": "https://www.gamesindustry.biz/mercurysteam-initiates-a-workforce-adjustment-process",
-        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-05-13-at-22.28.57.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-      },
-      {
-        "type": "财报动态",
-        "title": "Capcom连续第九年盈利：《生化危机：安魂曲》拉动净销售额+15.2%至$12亿",
-        "body": "Capcom发布FY2026年报，净销售额同比增长15.2%至1272亿日元（约12亿美元），连续第九年实现盈利增长。核心驱动力来自数字内容部门：以《生化危机：安魂曲》为首的主力IP继续贡献强劲销售。《安魂曲》延续了系列一贯的高完成度，全球多平台首发策略显著放大了首周峰值。Capcom同时维持着稳健的回购式IP运营节奏——《怪物猎人》《街头霸王》《鬼泣》均保持年度更新内容，确保玩家基础粘性。九连盈的成就在当前日本游戏行业（Sega亏损、SE重组）的背景下尤为突出，印证了「精品IP×数字化发行」的复合飞轮模型在AAA层级的可持续性。",
-        "source": "GamesIndustry.biz",
-        "business_impact": "Capcom的持续盈利模型成为日本AAA厂商中最具参考价值的范本，预计将进一步强化其在独立续作授权和跨媒体扩展上的议价能力",
+        "business_impact": "Capcom已成为日本上市游戏公司中财务表现最稳定的范本，生化危机IP的持久商业弹性印证了高质量单机内容对抗订阅化压力的可行路径",
         "url": "https://www.gamesindustry.biz/capcom-secures-ninth-consecutive-year-of-profit-boosted-by-resident-evil-requiem",
         "image": "https://assetsio.gnwcdn.com/resident-evil-requiem-leon-grace-raccoon-city.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
       },
       {
-        "type": "新势力融资",
-        "title": "前网易高管Simon Zhu联合CoD老将成立GreaterThan Group：首枪指向《星球大战：旧共和国命运》",
-        "body": "前NetEase全球发行负责人Simon Zhu（朱炎）宣布成立GreaterThan Group，并完成$1亿融资。这家新型AAA发行集团已集结《使命召唤》系列开发老将与《游戏王》IP资深制作人，首个公开项目为《星球大战：旧共和国命运》（Star Wars: Fate of the Old Republic）——一款定位多平台AAA级RPG的全新星战IP游戏。Simon Zhu在网易主导过多款全球发行项目，离职后选择以「多工作室联合发行」的集合模式切入西方AAA市场，而非单纯建立单一工作室。GreaterThan模式暗示其正在复制Take-Two的多品牌矩阵逻辑，借助迪士尼/卢卡斯影业的星战授权IP作为首发标杆，快速建立市场可信度。",
+        "type": "行业整合",
+        "title": "前网易高管朱骁融资$1亿创立GreaterThan Group：《星球大战》《使命召唤》老将联手出山",
+        "body": "前网易北美高管Simon Zhu（朱骁）宣布创立游戏控股公司GreaterThan Group（GTG），已获$4000万确定投资及约$6000万追加承诺，合计$1亿。GTG首批投资三家工作室：①Arcanaut Studios（加拿大埃德蒙顿），由《星球大战：旧共和国骑士团》与《质量效应》三部曲游戏总监Casey Hudson领衔，在研新作《星球大战：旧共和国的命运》已于2025年TGA首曝；②BulletFarm（洛杉矶），由《使命召唤》创意总监David Vonderhaar主导；③MAGship（东京），由《游戏王》系列资深制作人领衔。GTG定位为「支持世界级游戏人才创作原创新IP」的新型发行+投资混合体，朱骁的网易背景与三位创始人各自的顶级IP从业经历构成独特组合，是游戏行业「高管出走创业+资本赋能」新范式的最新力作。",
         "source": "GamesIndustry.biz",
-        "business_impact": "中国背景高管带资出海建立AAA发行集团，选择星战IP作为背书标志着中资游戏人正以更主动姿态进入西方顶级IP授权竞争，值得持续关注",
+        "business_impact": "GreaterThan Group集结了三位一线IP开发者，若旗下游戏商业成功将验证「顶级创作人+灵活资本结构」对抗大厂收购体系的可行性",
         "url": "https://www.gamesindustry.biz/former-netease-exec-simon-zhu-secures-100m-to-launch-greaterthan-group",
         "image": "https://assetsio.gnwcdn.com/fate-of-the-old-republic.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
       },
       {
-        "type": "工具收购",
-        "title": "Sensor Tower收购AppMagic：移动游戏数据情报市场进一步集中化",
-        "body": "移动应用数据分析平台Sensor Tower宣布收购手游数据工具AppMagic，后者以精准的手游收入估算和商店排名追踪著称，在独立开发者和中小型发行商中拥有较高口碑。Sensor Tower表示本次收购将支持其面向中小企业（SMB）的新产品线拓展，AppMagic将作为独立工具品牌继续运营并获得资源支持。此前Sensor Tower已收购data.ai（前App Annie），本次再并AppMagic意味着移动游戏数据情报市场头部集中度进一步提升。对行业而言，独立数据工具商的整合意味着竞争性分析成本可能上升，但同时也可能带来更一体化的数据服务体验。",
+        "type": "裁员风暴",
+        "title": "MercurySteam启动裁员程序：《火焰之刃》后又一西班牙老牌工作室陷入困境",
+        "body": "西班牙知名工作室MercurySteam宣布「启动员工调整程序」，CEO表示这是「困难而痛苦的决定」，是游戏行业「项目开发周期」的必然结果。MercurySteam成立于2002年，曾与American McGee、Clive Barker和科乐美《恶魔城》系列合作，2025年发布了动作RPG《火焰之刃》。此次裁员是继《火焰之刃》发售后项目周期结束、新项目正式立项前的人员调整——这一模式在中等体量工作室中高度普遍，但在当前行业寒冬的背景下每一次裁员都引发高度关注。MercurySteam是近期欧洲独立/AA工作室裁员潮中的最新案例，显示出中等体量工作室「项目结束=裁员」的脆弱商业结构亟需改变。",
         "source": "GamesIndustry.biz",
-        "business_impact": "手游数据情报市场向Sensor Tower一家集中，独立竞争者减少，对中小发行商数据获取成本和议价空间产生负面影响",
-        "url": "https://www.gamesindustry.biz/sensor-tower-acquires-appmagic",
-        "image": "https://assetsio.gnwcdn.com/sensor-tower-app-magic.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        "business_impact": "欧洲AA工作室「项目驱动型」人员结构的脆弱性再次暴露，持续稳定的IP管线是工作室避免大起大落的唯一路径",
+        "url": "https://www.gamesindustry.biz/mercurysteam-initiates-a-workforce-adjustment-process",
+        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-05-13-at-22.28.57.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
       },
       {
         "type": "独立融资",
-        "title": "《Indika》开发商Odd Meter完成$500万融资：用独立精品口碑换取创作自主权",
-        "body": "俄罗斯独立工作室Odd Meter宣布完成500万美元新一轮融资，将用于扩充团队和推进下一个项目。Odd Meter凭借2024年发布的《Indika》在全球独立游戏圈赢得高口碑——这款以俄罗斯东正教为背景的哲学向叙事游戏在Steam上获得好评如潮，并在多个年度游戏评选中入围最佳独立游戏。本次融资明确强调「维持创作独立性」为核心条件，拒绝了外部对创意方向的干预诉求。在多家工作室宣告裁员的同日，Odd Meter的融资消息为独立赛道提供了一针反差剂：高质量叙事游戏仍具备吸引专业资本的能力，前提是已建立可信的IP口碑。",
+        "title": "《INDIKA》开发商Odd Meter融资$500万：用资本换跑道，保持创意独立",
+        "body": "俄罗斯独立工作室Odd Meter宣布完成$500万融资，由Gem Capital和Autotelic Ventures领投，用于下一款游戏的研发及团队扩张，同时承诺「保持创意独立」。《INDIKA》是Odd Meter的处女作，以19世纪俄罗斯修女为主角的叙事游戏，凭借深刻的宗教与哲学主题获得压倒性的媒体好评。CEO Dmitry Svetlow表示本轮融资将给工作室「足够的跑道扩充团队并专注于打造下一款游戏」。在游戏行业VC热情持续降温的2026年，$500万规模的单一IP创意工作室融资难能可贵，折射出《INDIKA》在叙事游戏圈积累的高质量口碑正在转化为真实的资本信任。",
         "source": "GamesIndustry.biz",
-        "business_impact": "《Indika》的口碑转化为融资背书，验证了「一款精品独立游戏=下一款的融资护照」路径，对国内独立游戏圈具有示范意义",
+        "business_impact": "高口碑叙事独立游戏能够撬动VC资金的持续验证，为追求「小而精」路线的独立工作室提供了重要参照",
         "url": "https://www.gamesindustry.biz/indika-dev-odd-meter-raises-5m-to-fund-next-project",
         "image": "https://assetsio.gnwcdn.com/indika_uLtFIrH.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
       }
     ],
     "marketing": [
       {
-        "type": "IP泛娱乐化",
-        "title": "任天堂官宣《塞尔达传说》真人电影提前上映至2027年4月30日：全球玩家情绪集体沸腾",
-        "body": "[品牌动作] 任天堂官方宣布《塞尔达传说》真人电影上映日期从原定5月提前至2027年4月30日，提早整整一周。这是自《超级马力欧兄弟大电影》创下全球14亿美元票房后，任天堂IP泛娱乐化的最受期待续作。提前公告本身即是一种营销动作——制造稀缺感与倒计时氛围，让玩家社区重新进入「期待模式」。[社媒反馈] 「Zelda Movie」在X平台全球趋势迅速攀升，Reddit的r/zelda板块单日新帖数量创近半年新高，YouTube上「Zelda Live Action Trailer」相关搜索量显著提升。[商业思考] 在Switch 2涨价与F2P战略收缩的不利新闻连轴出现后，任天堂选择以文化事件型IP内容来提振玩家情绪，这是品牌资产最优成本的「情感对冲」动作。",
-        "source": "Gematsu / Nintendo官方",
-        "social_metric": "X平台「Zelda Movie」当日全球趋势前十，r/zelda单日热帖数创六个月新高",
-        "url": "https://www.gematsu.com/2026/05/the-legend-of-zelda-live-action-film-release-date-moved-up-to-april-30-2027",
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Zelda-Film-Release-Date_05-13-26.jpg"
+        "type": "独立爆款",
+        "title": "《Mouse: P.I. For Hire》月内回收全部发行成本，PlaySide上调全年营收预期至$36-38M",
+        "body": "[品牌动作] 澳大利亚上市游戏公司PlaySide在投资者简报中宣布，4月发售的1930年代卡通风格射击游戏《Mouse: P.I. For Hire》已「回收全部发行与营销成本」，且「持续强劲的销售表现」推动公司将FY26全年营收预期从$3470万上调至$3600-3800万，创公司历史营收纪录$6460万。[社媒反馈] 游戏在X和Reddit保持持续的玩家讨论热度，「Fleischer Studios风格+第一人称射击」的视觉卖点成为社媒上最高频转发内容。[商业思考] 《Mouse》的快速回本印证了「独特美术风格+类型融合」的差异化定位在独立射击市场依然有效；PlaySide作为上市小型发行商，一款游戏带动整体营收上调的案例为业界提供了「发行商押注单一精品」的正向参照。",
+        "source": "GamesIndustry.biz",
+        "social_metric": "PlaySide营收上调公告后股价单日上涨，社媒话题「Mouse PI售出多少份」持续热搜",
+        "url": "https://www.gamesindustry.biz/mouse-pi-for-hire-publisher-playside-recoups-all-expenses-since-april-launch",
+        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-05-13-at-21.50.54.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
       }
     ],
     "events": [
       {
-        "type": "财报沉默",
-        "title": "华纳兄弟探索Q1 2026财报再度回避游戏业务：「为下一章做准备」背后是战略真空",
-        "body": "Warner Bros. Discovery发布Q1 2026财报，但在发布材料与分析师电话会议中几乎完全回避了旗下游戏业务（WB Games）的具体数据披露。首席执行官仅以「正在为下一章节做准备」一笔带过。WB Games近年负面事件累积：《霍格沃茨之遗》后无后继爆款、《漫画英雄》系列关服、多款项目取消，且传闻出售WB Games的讨论持续浮现。此次财报沉默并非首次——WBD已连续多个季度拒绝为游戏部门单独披露营收或利润数字，与同期主动高调披露流媒体数据形成鲜明对比。游戏业务已实质性沦为WBD战略叙事中的「待处置资产」，出售或分拆仍是市场持续押注的方向。",
+        "type": "财报监管",
+        "title": "华纳兄弟Q1游戏收入暴跌30%，致股东信对游戏业务选择性失明",
+        "body": "华纳兄弟探索（WBD）发布2026年Q1财报：游戏业务收入同比暴跌30%（剔除汇率因素），游戏内容支出减少43%，「主要由于目录收入下降」。然而在CEO发给股东的信中，WBD再次对游戏业务只字不提，将全部篇幅用于HBO Max全球扩张、影视业务回归行业领导地位和广播网络优化。WBD游戏部门当前的困境：《霍格沃茨：遗产》2023年爆发后无可接续的重磅新作，《自杀小队》《多弦英雄》的失败留下深层体质问题，旗下Monolith等工作室的新作时间表不透明。「财报失语」是WBD对游戏业务态度的最清晰信号：游戏已不再是战略优先级，但完全退出又会引发IP资产价值质疑，管理层陷入两难。",
         "source": "GamesIndustry.biz",
-        "business_impact": "WBD持续回避游戏业务数据透明度，进一步强化市场对WB Games出售传闻的预期，DC和哈利波特等顶级IP的游戏授权未来走向充满变数",
+        "business_impact": "WBD游戏业务处于战略真空期，DC/《哈利·波特》等顶级IP的游戏化授权策略或将成为其下一步唯一出路",
         "url": "https://www.gamesindustry.biz/warner-bros-discovery-once-again-glosses-over-gaming-business-in-q1-2026-financials",
         "image": "https://assetsio.gnwcdn.com/warner-bros-water-tower.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-      }
-    ],
-    "releases": [
-      {
-        "title": "《战锤40000：机械神教II》(Warhammer 40,000: Mechanicus II)",
-        "platforms": [
-          "PC",
-          "PS5",
-          "Xbox Series"
-        ],
-        "date": "2026-05-21",
-        "source": "Gematsu"
       },
       {
-        "title": "《塔罗斯法则III》(The Talos Principle III)",
-        "platforms": [
-          "PS5",
-          "PC"
-        ],
-        "date": "2027-TBD",
-        "source": "Gematsu"
-      },
-      {
-        "title": "《STEINS;GATE RE:BOOT》",
-        "platforms": [
-          "PS5",
-          "Xbox Series",
-          "Switch 2",
-          "PS4",
-          "Switch",
-          "PC"
-        ],
-        "date": "2026-08-20",
-        "source": "Gematsu"
+        "type": "裁员并购",
+        "title": "Night Street Games《Last Flag》惨败裁员：英雄射击品类2026年最新落败案例",
+        "body": "在公开宣称「不会就此消失」仅数日后，Night Street Games制作人Jonathan Jelinek在LinkedIn上确认了团队裁员，原因是《Last Flag》「未能实现我们预期的财务成功」。《Last Flag》是一款英雄射击游戏，于几周前刚刚发布并随即暂停新内容开发。Jelinek表示「一些极具才华的开发者受到影响」，并向外界推荐受影响的虚幻引擎开发者。这是继多款英雄射击游戏相继停服或裁员后，2026年该品类的最新落败案例。英雄射击市场的高度头部集中（《守望先锋》《Valorant》垄断90%以上的市场份额）使得新进入者几乎没有存活空间，「发布即失败」的循环正在加速消耗这一赛道的创业信心。",
+        "source": "GamesIndustry.biz",
+        "business_impact": "英雄射击品类的高壁垒与极低成功率进一步证实，新入局者需要颠覆性差异化而非「更好的执行」才能在该赛道生存",
+        "url": "https://www.gamesindustry.biz/night-street-games-cuts-jobs-after-last-flag-fails-to-achieve-the-financial-success-we-anticipated",
+        "image": "https://assetsio.gnwcdn.com/ss_9573d1df7db01ce489d815dd27853ceb0c3a324c.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
       }
     ],
+    "releases": [],
     "hotlist": [
-      "Capcom九连盈：《生化危机：安魂曲》证明日本AAA「精品IP+数字化」飞轮的终极形态",
-      "GreaterThan Group横空出世：前网易高管+星战IP+$1亿，这是中国游戏人出海最强一手牌？",
-      "MercurySteam裁员背后：《银河战士》后继乏力，「中型首方代工工作室」的天花板显现",
-      "塞尔达电影提前上映：任天堂在涨价风波后用文化事件重夺玩家心智",
-      "WB Games战略真空：连续多季不披露数据，DC/哈利波特IP游戏未来何去何从？"
+      "Capcom第九年连续盈利：生化危机IP为何能持续对抗行业寒冬？",
+      "华纳游戏收入-30%财报隐而不报：WBD的游戏业务还有救吗？",
+      "前网易高管$1亿押注Casey Hudson+CoD总监：GreaterThan Group能超越大厂吗？",
+      "MercurySteam裁员、Night Street Games裁员：AA独立工作室的项目周期宿命还能解吗？",
+      "《Mouse: P.I. For Hire》月内回本：差异化美术风格是独立游戏最可靠的护城河"
     ]
   }
 }
