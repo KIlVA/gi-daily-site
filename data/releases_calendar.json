@@ -613,5 +613,18 @@
     "source": "IGN / CNET",
     "url": "https://www.cnet.com/tech/gaming/hades-2-the-award-winning-sequel-joins-xbox-game-pass-in-april/",
     "region": "Global"
+  },
+  {
+    "title": "Subnautica 2（抢先版）",
+    "developer": "Unknown Worlds Entertainment",
+    "publisher": "Unknown Worlds Entertainment",
+    "platforms": [
+      "Xbox Series X|S",
+      "PC（Steam/Epic/微软商店）",
+      "Game Pass"
+    ],
+    "date": "2026-05-14",
+    "genre": "生存探索",
+    "notes": "抢先版首日12小时销量200万，65万同时在线"
   }
 ]
