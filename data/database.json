@@ -5083,5 +5083,77 @@
       "Nexon净利润+118%：Arc Raiders证明日本资本+西方创意是全球化最优解",
       "Xbox Cloud Controller泄露：微软要给云游戏一个专属硬件入口了"
     ]
+  },
+  "2026-05-16": {
+    "date": "2026-05-16",
+    "vol": 20260516,
+    "weekday": "SATURDAY",
+    "ticker": [
+      "《Mixtape》开发商为游戏内所有音乐买下永久授权，彻底规避LEGO 2K Drive式下架命运",
+      "《最终幻想11》24周年：Square Enix大幅升级免费试玩，老牌MMO证明「活着本身就是胜利」",
+      "巴勒斯坦独立游戏《Dreams on a Pillow》公布玩法首影，众筹继续推进"
+    ],
+    "hero": {
+      "title": "《Mixtape》买下音乐永久版权的那一天，《LEGO 2K Drive》下架倒计时还剩三天",
+      "summary": "5月16日是周六，行业新闻量轻，却有一则故事在数字游戏所有权争议最热的时间节点精准落地：《Mixtape》创意总监Johnny Galvatron在接受Kotaku采访时透露，开发商Beethoven and Dinosaur已为游戏内所有授权音乐购买了「永久使用权」——玩家不必担忧这款深度嵌入音乐叙事的游戏会步LEGO 2K Drive的后尘，在数年后悄然消失。这条消息发布时，距LEGO 2K Drive正式下架（5月19日）仅剩三天，两则新闻构成了2026年数字游戏版权讨论最鲜明的正反案例对照。同日，《最终幻想11》迎来24周年，Square Enix宣布大幅升级免费试玩范围——这款2002年上线、至今仍在运营更新的MMO，正以自己的存在持续证明一件事：「活着本身就是最好的声明。」",
+      "tags": [
+        "Mixtape永久授权",
+        "数字版权",
+        "FF11 24周年",
+        "Dreams on a Pillow"
+      ],
+      "stats": [
+        {
+          "num": "24年",
+          "label": "《最终幻想11》持续运营年限"
+        },
+        {
+          "num": "3天",
+          "label": "LEGO 2K Drive下架倒计时（截至本文发布）"
+        },
+        {
+          "num": "永久",
+          "label": "《Mixtape》音乐授权期限"
+        }
+      ]
+    },
+    "news": [
+      {
+        "type": "版权保障",
+        "title": "《Mixtape》买下所有歌曲永久授权：「无需担忧下架」，数字游戏版权困局迎来一个正面答案",
+        "body": "正当《LEGO 2K Drive》下架倒计时引发数字游戏所有权大讨论之际，音乐叙事游戏《Mixtape》的开发商Beethoven and Dinosaur给出了一个令人宽慰的回答。创意总监Johnny Galvatron在接受Kotaku采访时确认，工作室为游戏内所有授权音乐购买了「永久使用权」，多花了这笔钱是为了确保「游戏不会因版权到期而下架」。《Mixtape》由Xbox Games Studios发行，游戏故事与玩法深度依赖授权音乐——每首歌都嵌入叙事结构，而非纯装饰性背景音。这使其从立项之初就面临「音乐游戏的生命诅咒」质疑。永久授权的决策不仅保护了玩家权益，也为行业提供了一个可参照的范本：在数字发行时代，开发商有能力通过预算规划主动规避作品消亡风险，代价是更高的前期版权成本。",
+        "source": "Rock Paper Shotgun / Kotaku",
+        "business_impact": "《Mixtape》的永久授权决策将成为音乐授权游戏的新行业标杆，或推动更多开发商重新评估版权策略以维护数字游戏的长期可访问性",
+        "url": "https://www.rockpapershotgun.com/mixtape-will-be-safe-from-a-music-licensing-related-delisting-ensured-by-its-developer-paying-extra-for-the-privilege",
+        "image": "https://assetsio.gnwcdn.com/mixtape-firework.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "经典长青",
+        "title": "《最终幻想11》24周年大升级免费试玩：2002年的MMO仍在更新，「活着就是胜利」",
+        "body": "2002年上线的《最终幻想11》于5月16日迎来24周年纪念，Square Enix在日本官方YouTube直播中公布了一系列新内容计划，并宣布大幅扩展免费试玩范围——此前的免费试玩在等级与内容上有严格限制，新方案将让玩家可以「无期限游玩」更多游戏内容，无需订阅。这款游戏在2002年至今从未停止运营与内容更新，尽管《最终幻想14》和《最终幻想16》相继发布，《FF11》依然保有一批核心玩家群体。《FF11》的持续运营是MMO行业「长尾价值」最极端的案例之一：24年的内容积累已形成其他任何游戏无法复制的深度体验，而持续扩展免费试玩则是Square Enix维持新玩家导入、延缓服务关闭的精准运营策略。此举也与Square Enix在FY26财报中强调「利用现有IP资产」的战略方向高度一致。",
+        "source": "Rock Paper Shotgun / Square Enix官方",
+        "business_impact": "《FF11》24年不关服的案例持续为订阅制MMO的「永续运营」可行性提供证明，免费试玩扩展将为老牌IP注入新鲜血液",
+        "url": "https://www.rockpapershotgun.com/for-its-24th-anniversary-final-fantasy-11-is-getting-a-free-trial-upgrade-that-lets-you-play-it-for-as-long-as-you-like",
+        "image": "https://assetsio.gnwcdn.com/final-fantasy-11-free-trial.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "marketing": [
+      {
+        "type": "独立众筹",
+        "title": "巴勒斯坦独立游戏《Dreams on a Pillow》首曝玩法：以1948年纳克巴为背景，众筹第二轮进行中",
+        "body": "[品牌动作] 巴勒斯坦开发者Rasheed Abueideh公布《Dreams on a Pillow》的首个玩法演示视频，游戏以1948年纳克巴（巴勒斯坦大流散）为历史背景，类型定位为「伪潜行冒险游戏」，改编自巴勒斯坦民间故事，讲述一名女性在村庄遭屠杀后带着新生儿出逃的故事。开发者表示游戏是其对2023年起加沙战争的情感回应，众筹活动第二轮目前仍在进行。[社媒反馈] 游戏在独立游戏社区和政治关注群体中广泛传播，RPS报道后Reddit r/IndieDev板块出现大量转发，众筹页面在报道后访问量显著提升。[商业思考] 《Dreams on a Pillow》代表了游戏作为「政治见证媒介」的极端案例，其众筹成功与否将成为衡量游戏社区在当前政治环境下「用消费行为表达立场」意愿的重要指标。",
+        "source": "Rock Paper Shotgun",
+        "social_metric": "RPS报道后众筹页面单日访问量大幅提升，独立游戏社区与国际政治关注群体形成少见的传播重叠",
+        "url": "https://www.rockpapershotgun.com/palestinian-pseudo-stealth-game-dreams-on-a-pillow-paints-a-difficult-poetic-picture-in-its-first-look-at-gameplay",
+        "image": "https://assetsio.gnwcdn.com/dreams-on-a-pillow.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "events": [],
+    "releases": [],
+    "hotlist": [
+      "《Mixtape》永久音乐授权 vs LEGO 2K Drive下架：同一周，数字游戏版权的两种命运",
+      "《最终幻想11》24岁了还在更新：这才是IP长期运营的终极形态",
+      "《Dreams on a Pillow》：当游戏成为历史见证，巴勒斯坦独立开发者用像素画出家园记忆"
+    ]
   }
 }
