@@ -5155,5 +5155,90 @@
       "《最终幻想11》24岁了还在更新：这才是IP长期运营的终极形态",
       "《Dreams on a Pillow》：当游戏成为历史见证，巴勒斯坦独立开发者用像素画出家园记忆"
     ]
+  },
+  "2026-05-17": {
+    "date": "2026-05-17",
+    "vol": 20260517,
+    "weekday": "SUNDAY",
+    "ticker": [
+      "财报周复盘：Capcom九连胜、Pearl Abyss暴增419%、Nexon+118%——买断制与IP管线才是抗周期武器",
+      "本周最大赢家：Arc Raiders累计1600万销量，Subnautica 2首日200万——买断制大型游戏全面反攻",
+      "本周最大输家：Sega Super Game五年折戟、华纳游戏-30%、亚马逊《指环王》MMO悄然取消",
+      "下周预告：GTA 6预购疑5月18日启动，Take-Two财报同步，新预告倒计时开始"
+    ],
+    "hero": {
+      "title": "2026财报周终结复盘：GaaS时代落幕，「做好游戏卖出去」重新成为最优解",
+      "summary": "5月17日，行业媒体进入周日休刊期。GI Daily借此机会做一次本周完整财报季的深度复盘。过去五天，游戏行业接连收到来自Capcom、Pearl Abyss、Square Enix、Nexon、Sega、Warner Bros. Discovery的成绩单，再加上《Subnautica 2》《Arc Raiders》两款买断制大作的市场数据，七组数字共同指向同一个结论：GaaS（游戏即服务）执念的代价正在以最昂贵的方式清算，而「把一款好游戏做完、定价出售」的古老逻辑正在以最坚定的方式回归。赢家画像高度一致——Capcom（九年连利）、Pearl Abyss（《绯红荒漠》80%销售来自欧美）、Nexon（Arc Raiders全球爆发）——都是在高质量IP上做深度而非在免费增值上押注规模；输家画像同样高度一致——Sega（Super Game五年五亿打水漂）、索尼（Bungie 7.65亿减值）、华纳（游戏收入-30%无人问津）——无一例外是在错误的赛道上追错了对手。",
+      "tags": [
+        "财报周复盘",
+        "GaaS落幕",
+        "买断制回归",
+        "2026行业格局"
+      ],
+      "stats": [
+        {
+          "num": "9年",
+          "label": "Capcom连续利润增长（本周最长连胜纪录）"
+        },
+        {
+          "num": "+419.8%",
+          "label": "Pearl Abyss Q1营收增幅（本周财报最大涨幅）"
+        },
+        {
+          "num": "$7.65亿",
+          "label": "索尼对Bungie的累计减值（本周最贵代价）"
+        }
+      ]
+    },
+    "news": [
+      {
+        "type": "周报复盘",
+        "title": "【本周赢家榜】Capcom · Pearl Abyss · Nexon：三张财报证明「IP深耕+买断制」是2026年最优解",
+        "body": "本周财报季最清晰的叙事主线由三家公司共同书写。Capcom以「第九年连续利润增长」成为日本游戏行业抗逆周期能力的终极样本：不追 GaaS、不盲目扩张，靠《生化危机Requiem》与稳健的IP目录管理，FY2026净销售额+15.2%至$12亿，游戏销量5907万创历史新高。Pearl Abyss的《绯红荒漠》更是直接给出了「韩国开放世界动作RPG能否打穿西方市场」的答案——Q1单季营收+419.8%至$220.6M，80%销售来自北美与欧洲，颠覆了所有人对韩国游戏IP在西方天花板的预判。Nexon借Embark Studios旗下的《Arc Raiders》（累计销量1600万，50%玩家超100小时游戏时长）实现净利润+118%，印证了「日韩资本+西方创意人才」模式的全球化可复制性。三家公司的共同密码：真实玩家价值导向、IP高密度复用、买断制+有限内容的可预测收益结构。",
+        "source": "GamesIndustry.biz 本周财报报道综合",
+        "business_impact": "三家公司的集体胜出将加速行业对「Capcom模式」的战略再评估，预计未来12个月更多AAA厂商公开降低F2P优先级",
+        "url": "https://www.gamesindustry.biz/capcom-secures-ninth-consecutive-year-of-profit-boosted-by-resident-evil-requiem",
+        "image": "https://assetsio.gnwcdn.com/arc-raiders_59Bfapt.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      },
+      {
+        "type": "周报复盘",
+        "title": "【本周输家榜】Sega · 华纳 · 亚马逊：GaaS野心、授权IP游戏化、Free-to-Play三条路同时折戟",
+        "body": "与赢家形成鲜明对比的是本周三组代价高昂的战略失败案例。Sega宣布彻底取消「Super Game」项目，五年筹备、百余名开发者、F2P全球扩张梦想化为乌有；FY2026净亏损$31.6M，Rovio收购后整合失败带来$2亿减值。华纳兄弟探索Q1游戏收入暴跌30%，致股东信对游戏业务选择性失明——管理层用沉默代替了应有的战略解释，市场对WBD游戏部门的未来几乎失去信心。亚马逊游戏部门据报已悄然取消《指环王》MMO，这是继《新世界》之后又一个难以构建第二IP支柱的无奈结局，游戏负责人的「继续探索」措辞难掩战略迷失。三家失败的共同基因：追逐规模而非质量、押注免费增值而非玩家价值、用收购替代内生IP能力建设。",
+        "source": "GamesIndustry.biz 本周财报报道综合",
+        "business_impact": "三家公司的集体失败将成为游戏行业「GaaS过度扩张」最具说服力的反面教材，预计将加速F2P项目的行业性投资收缩",
+        "url": "https://www.gamesindustry.biz/sega-reports-316m-net-loss-during-fy26-cancels-super-game-project-amid-strategic-pivot",
+        "image": "https://assetsio.gnwcdn.com/sonic-rumble_94de89c.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "marketing": [
+      {
+        "type": "下周预告",
+        "title": "【下周看点】GTA 6预购疑5月18日开启，Take-Two财报同周发布，Rockstar最大营销事件倒计时",
+        "body": "[品牌动作] 据Best Buy联盟邮件泄露，《GTA 6》实体版预购活动将于5月18-21日启动，联盟成员每笔可获5%佣金。Take-Two Interactive将于同周发布季度财报，两者时间节点高度重合，市场普遍预判新预告视频将与预购同步发布。[背景] 《GTA 6》首个预告自2023年12月发布至今已逾两年半，玩家期待值达历史峰值。若5月18日预购确认并伴随新预告，将成为2026年迄今游戏行业最大的单一营销事件，有望打破《GTA 5》创下的预告首日播放纪录。[商业思考] Rockstar的极简预告策略（两年多仅一支预告）已成为游戏营销史上「稀缺性制造」的教科书级案例，下一支预告的发布节奏将直接定义整个行业2026下半年的舆论议程。",
+        "source": "VGC（5月14日报道）",
+        "social_metric": "「GTA 6预购」相关话题在周末X平台游戏区持续高热，多位大V提前发布预测视频累计播放超千万",
+        "url": "https://www.videogameschronicle.com/news/best-buy-tells-affiliates-its-starting-gta-6-pre-orders-next-week-sparking-speculation-that-a-new-trailer-is-coming/",
+        "image": "https://www.videogameschronicle.com/files/2025/05/Vice_City_04.jpg"
+      }
+    ],
+    "events": [
+      {
+        "type": "行业格局",
+        "title": "2026财报周终结：行业新格局已成型——IP深度经营者胜，GaaS扩张者败，中间没有模糊地带",
+        "body": "本周财报季将在游戏行业史上留下清晰印记。从五组财报和两款大作发售数据中，可以提炼出2026年游戏行业格局最核心的三个结论：①买断制大作的市场需求被严重低估。《Subnautica 2》首日200万销量、《绯红荒漠》Q1$179M销售、《Arc Raiders》1600万累计销量，三组数据共同宣告「买断制已死」的论调彻底破产。②IP深度经营者拥有结构性护城河。Capcom、Square Enix（FF Tactics/DQ复兴）、Nexon（Arc Raiders + MapleStory）的共同模式是：对已验证IP进行高质量深化，而非不断押注未知IP。③GaaS的真正问题不是「模式错误」，而是「执行中的边界消失」。免费游戏+多人游戏本身没有问题，但当整个公司的战略重心都押注在一个未验证的服务型游戏上时，失败的代价往往是毁灭性的。下周随着GTA 6预购启动与Take-Two财报发布，行业的注意力将从「过去五年的结算」转向「2026年下半年最大的商业事件」。",
+        "source": "GI Daily 编辑部综合",
+        "business_impact": "2026年财报季已为未来两年行业投资方向定下基调：IP复兴、买断制精品、跨文化发行能力将成为资本最青睐的三大核心竞争力",
+        "url": "https://www.gamesindustry.biz/the-hangover-kicks-in-after-a-decade-of-games-as-a-service-obsession-opinion",
+        "image": "https://assetsio.gnwcdn.com/resident-evil-requiem-leon-grace-raccoon-city.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "releases": [],
+    "hotlist": [
+      "财报周终结：赢家全是「做游戏卖游戏」的公司，输家全是「追GaaS规模」的公司",
+      "Pearl Abyss +419% vs 华纳 -30%：同一周，同一行业，完全不同的命运",
+      "Subnautica 2首日200万 + Arc Raiders 1600万累计：买断制大型游戏的2026年大反攻",
+      "下周GTA 6预购开启：Rockstar的「两年沉默营销法」即将迎来最重要的时刻",
+      "索尼Bungie $7.65亿减值、Sega $2亿减值：GaaS收购溢价的代价，行业已经学到了什么？"
+    ]
   }
 }
