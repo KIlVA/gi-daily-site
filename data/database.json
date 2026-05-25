@@ -5240,5 +5240,90 @@
       "下周GTA 6预购开启：Rockstar的「两年沉默营销法」即将迎来最重要的时刻",
       "索尼Bungie $7.65亿减值、Sega $2亿减值：GaaS收购溢价的代价，行业已经学到了什么？"
     ]
+  },
+  "2026-05-18": {
+    "date": "2026-05-18",
+    "vol": 20260518,
+    "weekday": "MONDAY",
+    "ticker": [
+      "索尼Hermen Hulst内部宣布：单机大作永久留守PS5，PC版图宣告终结",
+      "PlayStation Plus新用户涨价$1/€1/£1，5月20日起生效，老用户暂不受影响",
+      "《Marvel's Wolverine》《战神三部曲重制》《Intergalactic》将不再登陆PC",
+      "索尼PC策略U型转弯：2019年起的跨平台开放路线宣告终结"
+    ],
+    "hero": {
+      "title": "索尼Hermen Hulst内部宣布：单机大作永久锁定PS5，五年PC开放战略正式终结",
+      "summary": "5月18日，游戏行业迎来2026年迄今最重大的平台策略转变。索尼互动娱乐工作室事业群CEO Hermen Hulst在公司全员会议上宣布：SIE旗下单机大作将不再登陆PC平台，这一决策由Bloomberg记者Jason Schreier现场披露。受影响的确认标题包括《Marvel's Wolverine》《Intergalactic: The Heretic Prophet》及《战神三部曲重制版》，均将锁定PS5独占。多人网络游戏（《Marathon》《MARVEL Tokon: Fighting Souls》）仍将上线PC，外部发行合作（如《Kena: Scars of Kosmora》）也不受影响。这是索尼自2019年《死亡搁浅》登陆PC以来、历时五年多平台开放战略的彻底U型转弯，背后逻辑指向一个方向：订阅服务（PlayStation Plus）的价值支撑，必须建立在PS5独占体验无法被替代的前提上。同日，索尼宣布PS Plus对新用户涨价，月费+$1、季费+$3，进一步印证了「独占护城河+溢价订阅」的战略组合。",
+      "tags": [
+        "索尼PC独占",
+        "PlayStation战略",
+        "PS Plus涨价",
+        "Hermen Hulst"
+      ],
+      "stats": [
+        {
+          "num": "5年",
+          "label": "索尼PC跨平台开放战略持续时长（2019-2026）"
+        },
+        {
+          "num": "$1/月",
+          "label": "PS Plus新用户月费涨幅（$9.99→$10.99）"
+        },
+        {
+          "num": "3款",
+          "label": "确认受影响的已知大作（Wolverine/Intergalactic/GoW Remake）"
+        }
+      ]
+    },
+    "news": [
+      {
+        "type": "平台战略",
+        "title": "索尼宣布单机大作永久锁定PS5：Hermen Hulst全员会议宣告，五年PC开放路线终结",
+        "body": "索尼互动娱乐工作室事业群CEO Hermen Hulst在公司全员会议上宣布，SIE旗下单机大作将不再登陆PC平台，这一决策由Bloomberg记者Jason Schreier实时披露。此消息印证了Bloomberg今年3月的独家爆料——消息人士当时透露《Ghost of Yotei》和《Saros》将保持PS5独占。此次确认受影响的已知大作包括：《Marvel's Wolverine》《Intergalactic: The Heretic Prophet》《战神三部曲重制版》。例外条款：多人网络游戏《Marathon》《MARVEL Tokon: Fighting Souls》仍将上PC；外部发行合作如《Kena: Scars of Kosmora》不受影响。这是索尼自2019年将《死亡搁浅》移植PC、随后陆续推出《漫威蜘蛛侠》《神秘海域》《地平线》等PC版本以来，历时五年多平台化战略的彻底逆转。分析认为，核心驱动力是PlayStation Plus溢价订阅必须依赖不可替代的独占内容护城河——当PC成为平价替代渠道，订阅的价值支撑就会被削弱。",
+        "source": "Gematsu / Bloomberg",
+        "business_impact": "索尼回归硬件独占策略将直接提升PS5对高端玩家的不可替代性，但同时意味着PC端索尼游戏的商业空间永久关闭，受影响的PC玩家群体将转向Xbox/Steam生态",
+        "url": "https://www.gematsu.com/2026/05/sony-interactive-entertainment-to-no-longer-release-single-player-games-on-pc",
+        "image": "https://www.videogameschronicle.com/files/2024/10/ps5-digital-30th-anniversary-console-box.jpg"
+      },
+      {
+        "type": "订阅定价",
+        "title": "PlayStation Plus新用户涨价：月费$9.99→$10.99，5月20日起生效，现有用户暂时豁免",
+        "body": "索尼互动娱乐宣布PlayStation Plus针对新用户在部分地区调价，援引「持续的市场条件」：月费订阅从$9.99涨至$10.99（+$1）；季度订阅从$24.99涨至$27.99（+$3）；英国月费£6.99→£7.99（+£1），季度£19.99→£21.99（+£2）；欧元区月费€8.99→€9.99（+€1），季度€24.99→€27.99（+€3）。涨价将于5月20日生效，仅适用于新用户和订阅到期重订的用户；土耳其和印度的现有订阅者例外受影响。这是PS Plus近年来幅度较小但具有明确信号意义的调价——结合同日宣布的「单机PC版终结」决策，两者共同构成索尼「提升PS5独占价值→支撑订阅溢价」战略组合的两个侧面：通过收紧内容独占性，为涨价的合理性提供叙事支撑。",
+        "source": "Gematsu / Sony官方",
+        "business_impact": "PS Plus涨价幅度有限但信号强烈：索尼正在重建「PS5独占护城河→溢价订阅」的价值循环，后续Annual Plan（年费订阅）涨价或为下一步",
+        "url": "https://www.gematsu.com/2026/05/playstation-plus-price-increase-announced-for-new-customers",
+        "image": "https://assetsio.gnwcdn.com/Marathon_robot-enemies.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      }
+    ],
+    "marketing": [
+      {
+        "type": "平台营销",
+        "title": "索尼双拳出击的营销信号：「独占大作+溢价订阅」组合拳，重新定义PS5的不可替代性",
+        "body": "[品牌动作] 5月18日索尼发出的两个信号——单机大作锁定PS5独占、PS Plus对新用户小幅涨价——在营销层面构成一套完整的品牌叙事：PS5的差异化价值不再依赖「最终也能在PC上买到」的兜底预期，而是回归「只有PS5才能体验」的排他性定位。[社媒反馈] X平台「Sony PC games」立刻登上游戏话题热搜，PC玩家社区出现明显分化——部分玩家表达失望，另一部分PlayStation用户则将其视为「索尼终于想清楚了」的正面信号。[商业思考] 对比微软将第一方游戏同步登陆PC/Xbox Game Pass的「无边界」策略，索尼选择强化硬件护城河——两种路线哪个更可持续，将在未来2-3年内由销售数据做出最终裁判。",
+        "source": "Gematsu / 行业观察",
+        "social_metric": "「Sony PC」在X平台全球趋势维持超6小时，相关讨论帖文互动总量超50万次",
+        "url": "https://www.gematsu.com/2026/05/sony-interactive-entertainment-to-no-longer-release-single-player-games-on-pc",
+        "image": "https://www.videogameschronicle.com/files/2024/10/ps5-digital-30th-anniversary-console-box.jpg"
+      }
+    ],
+    "events": [
+      {
+        "type": "平台格局",
+        "title": "索尼PC策略大逆转的行业意义：微软开放 vs 索尼封闭，2026年平台战争进入新阶段",
+        "body": "索尼宣布单机大作永久PS5独占，是自2019年以来游戏行业平台策略最重要的转折点之一。这一决策的深层逻辑值得从三个维度解读：①订阅战争的护城河逻辑。PlayStation Plus的订阅价值必须建立在「只有PS5才能访问顶级内容」的前提上。当《漫画蜘蛛侠》《地平线》《战神》陆续登陆Steam时，PS5的必要性实际上被稀释了——索尼的策略逆转是对这一稀释效应的直接纠正。②与微软战略的正面对立。微软「Xbox + PC + Game Pass全面开放」的策略持续在PC玩家中积累口碑，索尼此举将使两家公司的平台哲学形成最鲜明的对立，玩家将被迫在「开放通用生态」与「封闭高质量独占」之间做出更明确的选择。③对第三方开发商的涟漪效应。若PS5独占叙事成功支撑装机量，将强化第三方与索尼谈判独占/优先登陆协议的经济逻辑，进而进一步强化PS5平台的内容壁垒。",
+        "source": "GI Daily 编辑部分析",
+        "business_impact": "索尼独占回归将加速玩家在PS5和PC/Xbox生态之间的分层，长期来看有利于PS5销量但可能损失部分PC优先玩家的好感度",
+        "url": "https://www.gematsu.com/2026/05/sony-interactive-entertainment-to-no-longer-release-single-player-games-on-pc",
+        "image": "https://www.videogameschronicle.com/files/2024/10/ps5-digital-30th-anniversary-console-box.jpg"
+      }
+    ],
+    "releases": [],
+    "hotlist": [
+      "索尼宣告单机PC版终结：《Wolverine》《Intergalactic》《战神重制》永远不会来PC",
+      "PS Plus涨价$1背后：索尼正在重建「独占护城河→溢价订阅」的价值循环",
+      "微软开放 vs 索尼封闭：2026年平台战争格局已定，玩家该站哪边？",
+      "Hermen Hulst的全员会议：这不是泄露，这是索尼有意为之的战略宣言",
+      "5年PC开放路线终结：索尼用一次会议讲清楚了为什么PS5必须是唯一选择"
+    ]
   }
 }
